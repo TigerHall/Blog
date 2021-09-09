@@ -1,37 +1,16 @@
-## Welcome to tigerhall's GitHub Pages
+# 知识小笔记
 
-本页内容仅供测试，请勿过多依赖
+## 地化小知识
 
-### 主要使用Markdown语言
+- ### Dupal异常是什么
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+示例图如下
 
-```markdown
-Syntax highlighted code block
+![Dupal示例图](./dupal/dupal示意图.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+相关参考文献：
 
-- Bulleted
-- List
+[Dupré, B. and Allègre, C.J., 1983. Pb–Sr isotope variation in Indian Ocean basalts and mixing phenomena. Nature, 303(5913): 142-146](./dupal/10.1038@303142a0.pdf)
+## 地物小知识
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-更多细节可以前往 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TigerHall/backup/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+有什么问题？
