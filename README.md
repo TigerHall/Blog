@@ -1,2 +1,5 @@
-# Blog
-A Web of TigerHall
+# 个人笔记
+
+TigerHall 的个人笔记
+
+目前只有一些地球化学的小笔记
