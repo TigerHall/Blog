@@ -1,1 +1,10 @@
 theme: jekyll-theme-minimal
+---
+defaults:
+  - scope:
+      path: "projects"
+      type: "pages"
+    values:
+      layout: "project"
+      author: "Mr. Hyde"
+      category: "project"

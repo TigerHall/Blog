@@ -19,11 +19,11 @@ $^{208}Pb/^{204}Pb$
 
 ![Dupal示例图1](Dupal/Dupal1.jpg)
 
-![Dupal示例图2](https://github.com/TigerHall/Blog/blob/master/Dupal/Dupal1.jpg?raw=true)
+![Dupal示例图2](./Dupal/Dupal1.jpg)
 
 **相关参考文献（部分）：**
 
-[Dupré,B.and Allègre,C.J.,1983.Pb–Sr isotope variation in Indian Ocean basalts and mixing phenomena.Nature,303(5913):142-146](https://github.com/TigerHall/Blog/blob/master/Dupal/10.1038%40303142a0.pdf)
+[Dupré,B.and Allègre,C.J.,1983.Pb–Sr isotope variation in Indian Ocean basalts and mixing phenomena.Nature,303(5913):142-146](Dupal/10.1038%40303142a0.pdf)
 
 [邢光福.Dupal同位素异常的概念,成因及其地质意义[J].火山地质与矿产,1997,18(4):281-281.](https://github.com/TigerHall/Blog/blob/master/Dupal/Dupal同位素异常的概念,成因及其地质意义.pdf)
 
