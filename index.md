@@ -17,7 +17,9 @@ $^{208}Pb/^{204}Pb$
 
 最初研究的示例图如下
 
-![Dupal示例图](https://github.com/TigerHall/Blog/blob/master/Dupal/Dupal1.jpg?raw=true)
+![Dupal示例图1](Dupal/Dupal1.jpg)
+
+![Dupal示例图2](https://github.com/TigerHall/Blog/blob/master/Dupal/Dupal1.jpg?raw=true)
 
 **相关参考文献（部分）：**
 
