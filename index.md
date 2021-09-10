@@ -18,21 +18,16 @@ $^{208}Pb/^{204}Pb$
 > [!NOTE]
 > $^{87} Sr/^{86} Sr (>0.7035)$ ，
 
-:::row:::
-    :::column:::
-        
-    :::column-end:::
-    :::column:::
-        
-    :::column-end:::
-:::row-end:::
-
 :::no-loc text="$^{87} Sr/^{86} Sr (>0.7035)$ ，":::
 
 > [!WARNING]
 > Dangerous certain consequences of an action
 
-$^{87} Sr/^{86} Sr (>0.7035)$ ，
+两个钱
+
+$$^{87} Sr/^{86} Sr (>0.7035)$$
+
+<sup>87</sup>Sr/<sup>86+</sup>Sr(>0.7035)
 
 最初研究的示例图如下
 
