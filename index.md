@@ -25,9 +25,9 @@ $^{208}Pb/^{204}Pb$
 
 [Dupré,B.and Allègre,C.J.,1983.Pb–Sr isotope variation in Indian Ocean basalts and mixing phenomena.Nature,303(5913):142-146](Dupal/10.1038%40303142a0.pdf)
 
-[邢光福.Dupal同位素异常的概念,成因及其地质意义[J].火山地质与矿产,1997,18(4):281-281.](https://github.com/TigerHall/Blog/blob/master/Dupal/Dupal同位素异常的概念,成因及其地质意义.pdf)
+[邢光福.Dupal同位素异常的概念,成因及其地质意义[J].火山地质与矿产,1997,18(4):281-281.](Dupal/Dupal同位素异常的概念、成因及其地质意义.pdf)
 
-[张旗, 周德进, 沈丽璞. Dupal异常研究的现状与趋势[J]. 地球物理学进展, 1992, 7(4):63-71.](https://github.com/TigerHall/Blog/blob/master/Dupal/Dupal异常研究的现状与趋势.pdf)
+[张旗, 周德进, 沈丽璞. Dupal异常研究的现状与趋势[J]. 地球物理学进展, 1992, 7(4):63-71.](Dupal/Dupal异常研究的现状与趋势.pdf)
 
 ## 地物小知识
 
