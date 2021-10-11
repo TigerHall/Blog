@@ -1,6 +1,6 @@
 ## Emoji列表
 
-**People**
+### 小人
 
 :bowtie:
 :smile:
@@ -194,7 +194,7 @@
 :suspect:
 :trollface:
 
-**Nature**
+### 自然
 
 :sunny:
 :umbrella:
@@ -312,7 +312,7 @@
 :octocat:
 :squirrel:
 
-**Objects**
+### 物体
 
 :bamboo:
 :gift_heart:
@@ -574,7 +574,7 @@
 :tomato:
 :corn:
 
-**Places**
+### 地点
 
 :house:
 :house_with_garden:
@@ -683,7 +683,7 @@
 :uk:
 :de:
 
-**Symbols**
+### 符号
 
 :one:
 :two:
