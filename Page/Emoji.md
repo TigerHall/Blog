@@ -887,3 +887,20 @@
 :small_red_triangle_down:
 :shipit:
 
+### 国旗
+:cn:
+:checkered_flag:
+:triangular_flag_on_post:
+:black_flag:
+:white_flag:
+:rainbow_flag:
+:rainbow:
+:skull_and_crossbones:
+🏴‍☠️
+:unlock:
+:closed_lock_with_key:
+:lock:
+:police_car:
+:accept:
+:x:
+:negative_squared_cross_mark:
