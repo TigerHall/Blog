@@ -3,6 +3,9 @@
 * 已经加入部分文献
 * 已经加入一些笔记
 
+推荐阅读：
+[Dupal笔记](Page/Notes/Dupal异常)
+
 > 目前准备更新 Dupal 异常
 
 1. 创建了 Blog 页面
