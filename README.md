@@ -1,15 +1,20 @@
-# TigerHall的笔记本
+# TigerHall 的笔记本
 
-1. 创建了Blog页面
+* 已经加入部分文献
+* 已经加入一些笔记
+
+> 目前准备更新 Dupal 异常
+
+1. 创建了 Blog 页面
 1. 定制侧边栏
 1. 修改目录
+1. 整理文件目录
 
-> 目前更新了 Dupal异常
-
-!> 目前内容还未深入核实，内容不足
+!> 目前内容还未深入核实，欢迎提出校对
 
 <br>
 
+<!-- 访问量等信息 -->
 <span id="busuanzi_container_site_pv" style='display:none'>
 ▶👀 总访问量：<span id="busuanzi_value_site_pv"></span> 次
 </span>
@@ -21,5 +26,6 @@
 <span id="sitetime">
 ⏱️
 </span>
+
 <br>
 <br>
