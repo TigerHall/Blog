@@ -15,10 +15,7 @@
     <!-- / FB Open Graph -->
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://blog.dizhischool.cn/" />
-    <meta
-      property="og:title"
-      content="何虎的个人博客"
-    />
+    <meta property="og:title" content="何虎的个人博客" />
     <meta
       property="og:description"
       content="互相学习，多多交流，养成学习好习惯,blog.dizhischool.cn"
@@ -36,7 +33,7 @@
     />
 
     <!-- 自动编号 -->
-    <link rel="stylesheet" type="text/css" href="./Page/ant.css" />
+    <link rel="stylesheet" type="text/css" href="./assect/css/ant.css" />
   </head>
 
   <body>
@@ -69,7 +66,6 @@
           noData: "找不到结果",
           // 搜索标题的最大程级, 1 - 6
           depth: 3,
-
           // 相对路径
           relativePath: true,
         },
@@ -129,7 +125,7 @@
     <!-- PWA 支持 -->
     <script>
       if (typeof navigator.serviceWorker !== "undefined") {
-        navigator.serviceWorker.register("sw.js");
+        navigator.serviceWorker.register("./assect/js/sw.js");
       }
     </script>
 
