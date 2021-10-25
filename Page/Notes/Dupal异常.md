@@ -8,9 +8,6 @@
 
 ![Dupal示例图1](./Dupal/Dupal1.jpg?center)
 
-
-![Dupal示例图1](./Dupal/Dupal1.jpg?small)
-
 > 📥 未完待续，🚢 施工中 🚧 📤
 
 **部分参考文献：**

@@ -40,22 +40,26 @@ h6:before {
     counter(h5counter) "." counter(h6counter) "\0000a0\0000a0";
 }
 
+/* 图片居中显示，小图设置 */
 
-/* 图片居中显示 */
-img {
-  margin-left: auto;
-  margin-right:auto;
-  display:block;
+img[src*="small"] {
+  max-width: 60px;
+  height: auto;
+  text-align: left;
 }
 
 /* img {
-  positon: relative;
-  width: 80%;
-  left: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  max-width: 100%;
+  height: auto;
 } */
 
-img[url$="small"] {
-  max-width: 100px;
+img[src*="center"] {
+  margin-left: auto;
+  margin-right: auto;
   display: block;
-  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
 }
