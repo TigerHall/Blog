@@ -6,7 +6,10 @@
 
 最初研究的示例图如下
 
-![Dupal示例图1](./Dupal/Dupal1.jpg)
+![Dupal示例图1](./Dupal/Dupal1.jpg?center)
+
+
+![Dupal示例图1](./Dupal/Dupal1.jpg?small)
 
 > 📥 未完待续，🚢 施工中 🚧 📤
 

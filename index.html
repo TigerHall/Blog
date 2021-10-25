@@ -10,7 +10,7 @@
       content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
     />
     <!-- 网站图标 -->
-    <link rel="shortcut icon" href="./assect/logo.svg" />
+    <link rel="shortcut icon" href="./assect/pic/logo.svg" />
 
     <!-- / FB Open Graph -->
     <meta property="og:type" content="article" />
@@ -55,9 +55,12 @@
         homepage: "README.md",
         coverpage: false,
         loadSidebar: true,
-        loadSidebar: './assect/summary.md',
+        loadSidebar: "./assect/summary.md",
         autoHeader: true,
         auto2top: true, //切换页面后是否自动跳转到页面顶部
+
+        notFoundPage: "/assect/404.md",
+        // 自定义404页面
 
         //全文搜索
         search: {
@@ -103,7 +106,7 @@
       document.body.oncopy = function () {
         swal(
           "复制成功 🎉",
-          "若要转载或引用请务必保留原文链接，并申明来源。如果你觉得本仓库不错，那就来 GitHub 给个 Star 吧 😊   - by TigerHall",
+          "引用请申明来源。如果你觉得写的不错，可以给个点赞👍   - by TigerHall",
           "success"
         );
       };
