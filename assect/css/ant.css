@@ -40,10 +40,9 @@ h6:before {
     counter(h5counter) "." counter(h6counter) "\0000a0\0000a0";
 }
 
-/* 文字两端对齐 */
-
 p {
-  text-align: justify;
+  /* text-align: justify; */
+  /* text-indent: 1em; */
 }
 
 /* 图片居中显示，小图设置 */

@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="../../assect/css/中文.css" />
+
 ## Dupal 异常是什么
 
 &emsp;&emsp;Dupal 异常:
