@@ -12,12 +12,6 @@ $^{87} Sr/ ^{86}Sr (>0.7035)$，以及在相同 $^{206} Pb/ ^{204} Pb$ 比值条
 
 ?> 📥 未完待续，🚢 施工中 🚧 📤
 
-插入 html 动图
-
-
-[拟合动图](./叠图.html ":include :type=iframe width=100% height=400px")
-
-[cinwell website](https://cinwell.com ":include :type=iframe width=100% height=400px")
 
 **部分参考文献：**
 
