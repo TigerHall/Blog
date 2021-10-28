@@ -2,9 +2,9 @@
 
 插入 html 动图
 
-<iframe width="100%" height="auto" src="./t.html"></iframe>
+<iframe width="100%" height="auto" src="Test/Emoji.html"></iframe>
 
-[拟合动图](./叠图.html ":include :type=iframe width=100% height=400px")
+[叠图](Test/Emoji.html ":include :type=iframe width=100% height=400px")
 
 [cinwell website](https://cinwell.com ":include :type=iframe width=100% height=400px")
 
