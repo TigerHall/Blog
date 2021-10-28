@@ -10,9 +10,9 @@
 
 > [Dupal 笔记](Page/Notes/Dupal异常)
 
-> [大数据文献](Page/Paper/地学大数据前景)
+> [大数据文献](Page/Paper/地学大数据)
 
-> [未施工](Page/Books/翻译)
+> [未施工翻译](Page/Books/海洋地球化学)
 
 目前准备更新 Dupal 异常
 
