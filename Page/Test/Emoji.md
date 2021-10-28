@@ -1,10 +1,12 @@
 ## 测试加入其他类型文件
 
+
 插入 html 动图
 
 <iframe width="100%" height="auto" src="Test/Emoji.html"></iframe>
+<iframe width="100%" height="auto" src="./Emoji.html"></iframe>
 
-[叠图](Test/Emoji.html ":include :type=iframe width=100% height=400px")
+[叠图](./Emoji.html ":include :type=iframe width=100% height=400px")
 
 [cinwell website](https://cinwell.com ":include :type=iframe width=100% height=400px")
 
