@@ -71,7 +71,7 @@ img[src*="center"] {
 
 details {
   margin-left: 1em;
-  margin-top: 2em;
+  margin-top: 1em;
 }
 
 details summary::-webkit-details-marker {

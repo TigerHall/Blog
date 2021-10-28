@@ -2,23 +2,10 @@
   - [介绍](/)
   - [技术](assect/技术说明 " 网站技术说明") -->
 
-<details>
-<summary> 🔬 笔记与日记 ⏱️ </summary>
-
 - 🔬 笔记
 
   - [Dupal 异常](Page/Notes/Dupal异常 "关于Dupal异常的笔记")
   - [IODP 计划](Page/Notes/IODP计划 "关于IODP 计划的笔记")
-  - [临时笔记](Page/Notes/test "临时笔记")
-
-- ⏱️ 日记
-
-  - [英语作业](Page/Diary/一篇小日记 "一篇小日记😂")
-
-</details>
-
-<details>
-<summary> 📑 文献及翻译 📖 </summary>
 
 - 📑 文献
 
@@ -30,12 +17,16 @@
   - [翻译预告-利用地化数据](Page/Books/利用地化数据 "利用地化数据以了解地质进程")
   - [翻译预告-海洋地球化学](Page/Books/海洋地球化学 "地球化学书籍翻译预告")
 
-</details>
-
 <details>
 <summary> 🕹️ 测试与实验 🚢 </summary>
 
-- [Emoji 支持](Page/Test/Emoji "🤣💓😂")
-- Abc
+- ⏱️ 日记
+
+  - [英语作业](Page/Diary/一篇小日记 "一篇小日记😂")
+
+- 🕹️ 测试
+
+  - [Emoji 支持](Page/Test/Emoji "🤣💓😂")
+  - [临时笔记](Page/Notes/test "临时笔记")
 
 </details>
