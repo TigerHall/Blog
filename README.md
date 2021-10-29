@@ -9,10 +9,10 @@
 ## 推荐阅读：
 
 > [Dupal 笔记](Page/Notes/Dupal异常)
-
+>
 > [大数据文献](Page/Paper/地学大数据)
-
-> [未施工翻译](Page/Books/海洋地球化学)
+>
+> [未施工翻译](Page/Books/利用地化数据)
 
 目前准备更新 Dupal 异常
 
