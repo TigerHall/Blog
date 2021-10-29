@@ -27,12 +27,16 @@
     <meta property="og:site_name" content="欢迎交流学习地质知识。" />
 
     <!-- 主题 -->
-    <link
+    <!-- <link
       rel="stylesheet"
       href="//cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css"
+    /> -->
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
+      title="docsify-darklight-theme"
+      type="text/css"
     />
-    <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dolphin.css"> -->
-
     <!-- 自动编号 -->
     <link rel="stylesheet" type="text/css" href="./assect/css/ant.css" />
   </head>
@@ -97,6 +101,49 @@
           color: "var(--theme-color,#42b983)",
           height: "2px",
         },
+
+        // 黑夜模式
+        darklightTheme: {
+          siteFont: "Microsoft YaHei",
+          defaultTheme: "dark",
+          codeFontFamily:
+            "Microsoft YaHei, Roboto Mono, Monaco, courier, monospace",
+          bodyFontSize: "16px",
+          dark: {
+            accent: "#42b983",
+            toogleBackground: "#ffffff",
+            background: "#091a28",
+            textColor: "#b4b4b4",
+            codeTextColor: "#ffffff",
+            codeBackgroundColor: "#0e2233",
+            borderColor: "#0d2538",
+            blockQuoteColor: "#858585",
+            highlightColor: "#d22778",
+            sidebarSublink: "#b4b4b4",
+            codeTypeColor: "#ffffff",
+            coverBackground:
+              "linear-gradient(to left bottom, hsl(118, 100%, 85%) 0%,hsl(181, 100%, 85%) 100%)",
+            toogleImage:
+              "url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/sun.svg)",
+          },
+          light: {
+            accent: "#42b983",
+            toogleBackground: "#091a28",
+            background: "#ffffff",
+            textColor: "#34495e",
+            codeTextColor: "#525252",
+            codeBackgroundColor: "#f8f8f8",
+            borderColor: "rgba(0, 0, 0, 0.07)",
+            blockQuoteColor: "#858585",
+            highlightColor: "#d22778",
+            sidebarSublink: "#16232C",
+            codeTypeColor: "#091a28",
+            coverBackground:
+              "linear-gradient(to left bottom, hsl(118, 100%, 85%) 0%,hsl(181, 100%, 85%) 100%)",
+            toogleImage:
+              "url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/moon.svg)",
+          },
+        },
       };
     </script>
     <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script> -->
@@ -108,7 +155,10 @@
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 
     <!-- 页脚 -->
-    <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
+    <script
+      async
+      src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"
+    ></script>
 
     <!-- 代码复制到剪贴板 -->
     <!-- alert 样式 -->
@@ -152,10 +202,11 @@
     />
 
     <!-- 黑夜模式 -->
-    <!-- <script
+
+    <script
       src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"
       type="text/javascript"
-    ></script> -->
+    ></script>
 
     <!-- 自动加空格 -->
     <script src="//cdn.jsdelivr.net/npm/docsify-pangu/lib/pangu.min.js"></script>
