@@ -1,9 +1,7 @@
 ## 测试加入其他类型文件
 
 ```python
-
 print()
-
 ```
 
 插入 html 动图
@@ -15,7 +13,7 @@ print()
 
 [cinwell website](https://cinwell.com ":include :type=iframe width=100% height=400px")
 
-## Emoji列表
+## Emoji 列表
 
 ### 小人
 
@@ -127,7 +125,6 @@ print()
 :rage4:
 :suspect:
 
-
 ### 自然
 
 :sunny:
@@ -186,7 +183,6 @@ print()
 :milky_way:
 :partly_sunny:
 :octocat:
-
 
 ### 物体
 
@@ -433,6 +429,7 @@ print()
 :shipit:
 
 ### 国旗
+
 :cn:
 :checkered_flag:
 :triangular_flag_on_post:
