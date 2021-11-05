@@ -13,6 +13,8 @@
 > [大数据文献](Page/Paper/地学大数据)
 >
 > [未施工翻译](Page/Books/利用地化数据)
+>
+> [IODP 计划](Page/Notes/IODP计划 "关于IODP 计划的笔记")
 
 目前准备更新 Dupal 异常
 
@@ -36,7 +38,7 @@
 
 开源项目 [docsify](https://github.com/docsifyjs/docsify/) 以及广大互联网上的公开资源
 
-国内链接：
+[国内链接：](https://tigerhall.gitee.io/blog)
 
 [![头像图片超链接](./assect/pic/head.jpg?small)](https://tigerhall.gitee.io)
 
@@ -55,3 +57,4 @@
 ⏱️
 </span>
 
+> [IODP 计划](Page/Notes/IODP计划 "关于IODP 计划的笔记")
