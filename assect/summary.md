@@ -2,6 +2,7 @@
 
   - [Dupal 异常](Page/Notes/Dupal异常 "关于Dupal异常的笔记")
   - [IODP 计划](Page/Notes/IODP计划 "关于IODP 计划的笔记")
+  - [知识点补充](Page/Notes/知识点补充 "一些知识点")
 
 - [📑 文献](Page/Paper/文献说明 "文献栏目说明")
 
