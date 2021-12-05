@@ -38,6 +38,12 @@
       type="text/css"
     />
 
+    <!-- 箭头折叠侧边栏 -->
+    <link
+      rel="stylesheet"
+      href="./assect/css/sidebar.min.css"
+    />
+
     <!-- 自动编号 -->
     <link rel="stylesheet" type="text/css" href="./assect/css/ant.css" />
   </head>
@@ -48,13 +54,15 @@
     <script>
       window.$docsify = {
         name: "TigerHall的笔记",
+
         // repo: "https://dizhischool.cn",
         // logo: '/assect/logo.svg', //暂无logo设置
+
         maxLevel: 5, //最大支持渲染的标题层级
         subMaxLevel: 3,
         homepage: "README.md",
         coverpage: false,
-        loadSidebar: true,
+        // loadSidebar: true,
         loadSidebar: "./assect/summary.md",
         autoHeader: true,
         auto2top: true, //切换页面后是否自动跳转到页面顶部
@@ -95,6 +103,13 @@
           style: "text-align: center;",
           class: "className",
         },
+
+        // PlantUML支持
+        plantuml: {
+          skin: "default",
+        },
+
+        // 折叠目录
 
         // 进度条
         progress: {
@@ -156,6 +171,12 @@
 
     <!-- 运行时间统计 -->
     <script src="./assect/js/time.js"></script>
+
+    <!-- PlantUML支持 -->
+    <script src="./assect/js/docsify-plantuml.min.js"></script>
+
+    <!-- 折叠目录 -->
+    <script src="./assect/js/docsify-sidebar-collapse.min.js"></script>
 
     <!-- PWA 支持 -->
     <script>

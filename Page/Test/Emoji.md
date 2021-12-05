@@ -446,3 +446,15 @@ print()
 :accept:
 :x:
 :negative_squared_cross_mark:
+
+## plantuml 测试
+
+```plantuml
+@startuml
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+
+Alice -> Bob: Another authentication Request
+Alice <-- Bob: another authentication Response
+@enduml
+```
