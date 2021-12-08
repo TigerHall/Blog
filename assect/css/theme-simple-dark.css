@@ -142,7 +142,7 @@ textarea {
 a {
   text-decoration: none;
   -webkit-text-decoration-skip: ink;
-  text-decoration-skip-ink: auto;
+  text-decoration-skip-ink: underline;
 }
 body {
   margin: 0;
@@ -413,7 +413,7 @@ pre[data-lang] {
   text-decoration: none;
 }
 .markdown-section a.anchor:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 .markdown-section blockquote {
   overflow: visible;
@@ -857,7 +857,7 @@ pre[data-lang] {
   display: block;
   border-bottom: none;
   color: inherit;
-  text-decoration: none;
+  text-decoration: underline;
 }
 .cover h1 small {
   position: absolute;
