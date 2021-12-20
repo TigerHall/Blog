@@ -1,3 +1,5 @@
+# 测试内容
+
 ## 测试加入其他类型文件
 
 ```python
@@ -6,8 +8,7 @@ print()
 
 插入 html 动图
 
-<iframe width="100%" height="auto" src="Test/Emoji.html"></iframe>
-<iframe width="100%" height="auto" src="./Emoji.html"></iframe>
+!> 暂未解决
 
 [叠图](./Emoji.html ":include :type=iframe width=100% height=400px")
 

@@ -1,4 +1,4 @@
-<!-- <link rel="stylesheet" type="text/css" href="../../assect/css/中文.css" /> -->
+# 一些IODP的知识
 
 ## IODP 计划的历史
 
@@ -46,7 +46,7 @@ JOIDES 决议为 ODP 进行了 110 次探险，在位于世界各大洋盆地的
 
 [![IODP计划截图](./IODP/IODP.png?center)](http://www.iodp.org/ "综合大洋钻探计划")
 
-[综合海洋钻探计划 (IODP 2003-2013) ](http://www.iodp.org/iodp-legacy/iodp-2003-2013-documents) 建立在 DSDP 和 ODP 的国际伙伴关系和科学成功的基础上，采用了由 26 个参与国出资资助的多个钻探平台。
+[综合海洋钻探计划 (IODP 2003-2013)](http://www.iodp.org/iodp-legacy/iodp-2003-2013-documents) 建立在 DSDP 和 ODP 的国际伙伴关系和科学成功的基础上，采用了由 26 个参与国出资资助的多个钻探平台。
 
 翻新的 JOIDES Resolution、配备新海洋立管的日本深海钻井船 Chikyu 和专门的特定任务平台在 [52](http://www.iodp.org/expeditions/completed-integrated-ocean-drilling-program-expeditions) 次探险中被用于到达全球地下的新区域。
 
