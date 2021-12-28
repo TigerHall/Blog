@@ -1,9 +1,13 @@
+- [🧿 摘要](Page/Brief/摘要说明 "笔记栏目介绍")
+
+  - [Dupal 异常](Page/Brief/Dupal异常 "关于Dupal异常的说明")
+  - [IODP 计划](Page/Brief/IODP计划 "关于IODP计划的简介")
+  - [生物化学沉积](Page/Brief/生物化学沉积 "关于生物化学沉积的摘要")
+
 - [🔬 笔记](Page/Notes/笔记说明 "笔记栏目介绍")
 
-  - [Dupal 异常](Page/Notes/Dupal异常 "关于Dupal异常的笔记")
-  - [IODP 计划](Page/Notes/IODP计划 "关于IODP 计划的笔记")
-  - [生物化学沉积](Page/Notes/生物化学沉积 "关于生物化学沉积的笔记")
-  - [编程知识点补充](Page/Notes/知识点补充 "一些知识点")
+  - [生物化学沉积](Page/Notes/生物化学 "关于生物化学的术语")
+  - [编程知识点补充](Page/Notes/知识点补充 "一些编程知识点")
 
 - [📑 文献](Page/Paper/文献说明 "文献栏目说明")
 
@@ -15,7 +19,7 @@
   - [翻译预告-利用地化数据](Page/Books/利用地化数据 "利用地化数据以了解地质进程")
   - [翻译预告-海洋地球化学](Page/Books/海洋地球化学 "地球化学书籍翻译预告")
 
-- [🕹️ 测试](Page/Test/测试说明 "测试栏目说明")
+- [🚧 测试](Page/Test/测试说明 "测试栏目说明")
 
   - [Emoji 支持](Page/Test/Emoji "🤣💓😂")
   - [临时笔记](Page/Test/临时笔记 "临时笔记")
