@@ -8,13 +8,13 @@
 
 ## 推荐阅读：
 
-> [Dupal 笔记](Page/Notes/Dupal异常)
+> [Dupal 笔记](Page/Brief/Dupal异常 "Dupal异常的研究")
 >
-> [大数据文献](Page/Paper/地学大数据)
+> [大数据文献](Page/Paper/地学大数据 "一些地球化学大数据文献")
 >
-> [未施工翻译](Page/Books/利用地化数据)
+> [未施工翻译](Page/Books/利用地化数据 "一些基础的地球化学知识")
 >
-> [IODP 计划](Page/Notes/IODP计划 "关于IODP 计划的笔记")
+> [IODP 计划](Page/Brief/IODP计划 "关于IODP 计划的笔记")
 
 目前准备更新 Dupal 异常
 
@@ -57,4 +57,4 @@
 ⏱️
 </span>
 
-> [IODP 计划](Page/Notes/IODP计划 "关于IODP 计划的笔记")
+?> [IODP 计划](Page/Brief/IODP计划 "关于IODP 计划的笔记")
