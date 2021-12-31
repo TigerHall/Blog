@@ -8,14 +8,7 @@ print()
 
 插入 html 文件
 
-!> 暂未解决
-
-<iframe width="100%" height="800px" src="./test.html"></iframe>
-
-[叠图](../Test/test.html ":include")
-
-
-<!-- [filename](../Notes/Readme.md ':include') -->
+<iframe width="100%" height="700px" src="/Page/Test/test.html"></iframe>
 
 ## Emoji 列表
 
