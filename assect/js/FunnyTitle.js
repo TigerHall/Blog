@@ -22,7 +22,7 @@ link.rel = "shortcut icon";
 document.addEventListener("visibilitychange", function () {
   if (document.visibilityState == "hidden") {
     normal_title = document.title;
-    document.title = "记得关掉";
+    document.title = "❌记得关掉❌";
     link.href = "./assect/pic/logo1.svg";
   } else {
     document.title = "💓欢迎回来💓";
