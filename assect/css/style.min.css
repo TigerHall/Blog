@@ -70,7 +70,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   color: var(--textColor);
-  font-family: var(--siteFont), Helvetica Neue, Arial, sans-serif;
+  font-family: var(--siteFont), "Microsoft YaHei" , Helvetica Neue, Arial, sans-serif;
   font-size: var(--bodyFontSize);
   letter-spacing: 0;
   margin: 0;
@@ -378,7 +378,7 @@ body.sticky .sidebar-toggle {
   border-radius: 100%;
   color: #fff;
   content: "!";
-  font-family: Dosis, Source Sans Pro, Helvetica Neue, Arial, sans-serif;
+  font-family: "Microsoft YaHei", Dosis, Source Sans Pro, Helvetica Neue, Arial, sans-serif;
   font-size: 14px;
   font-weight: 700;
   left: -12px;
@@ -632,7 +632,7 @@ body {
 }
 .sidebar ul li a {
   color: var(--sidebarSublink);
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 400;
   overflow: hidden;
   text-decoration: none;
@@ -673,6 +673,7 @@ body {
   margin: 0 0 1rem;
 }
 .markdown-section h2 {
+  color: #99cc99;
   font-size: 1.75rem;
   margin: 45px 0 0.8rem;
 }
@@ -827,7 +828,7 @@ body {
   border-radius: 2px;
   color: var(--codeTextColor);
   display: block;
-  font-family: Roboto Mono, Monaco, courier, monospace;
+  font-family: "Microsoft YaHei" , Roboto Mono, Monaco, courier, monospace;
   font-size: 0.8rem;
   line-height: inherit;
   margin: 0 2px;
