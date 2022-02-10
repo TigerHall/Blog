@@ -14,6 +14,26 @@
 // };
 
 // 方法2
+// var link =
+//   document.querySelector('link[rel*="icon"]') || document.createElement("link");
+// link.rel = "shortcut icon";
+
+// document.addEventListener("visibilitychange", function () {
+//   if (document.visibilityState == "hidden") {
+//     OriginTitle = document.title;
+//     document.title = "关掉撒❌";
+//     link.href = "./assect/pic/logo1.svg";
+//   } else {
+//     document.title = "💓欢迎回来 📖";
+//     setTimeout(function () {
+//       document.title = OriginTitle;
+//     }, 666);
+//     link.href = "./assect/pic/logo.svg";
+//   }
+//   document.getElementsByTagName("head")[0].appendChild(link);
+// });
+
+// 简洁完成
 var link =
   document.querySelector('link[rel*="icon"]') || document.createElement("link");
 link.rel = "shortcut icon";
@@ -21,13 +41,10 @@ link.rel = "shortcut icon";
 document.addEventListener("visibilitychange", function () {
   if (document.visibilityState == "hidden") {
     OriginTitle = document.title;
-    document.title = "🚧记得关掉❌";
+    document.title = "记得关掉❌";
     link.href = "./assect/pic/logo1.svg";
   } else {
-    document.title = "💓欢迎回来 📖";
-    setTimeout(function () {
-      document.title = OriginTitle;
-    }, 1600);
+    document.title = OriginTitle;
     link.href = "./assect/pic/logo.svg";
   }
   document.getElementsByTagName("head")[0].appendChild(link);
