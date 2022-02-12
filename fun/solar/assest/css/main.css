@@ -1,0 +1,486 @@
+html, body {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: rgb(34, 39, 56);
+    transition: 1s linear;
+}
+
+.taiyangxi {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    margin: 0 auto;
+    background-color: rgb(34, 39, 56);
+    transition: 1s linear;
+}
+
+.taiyang {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: calc(70px + 1px);
+    width: calc(70px + 1px);
+    margin-top: calc(-70px / 2);
+    margin-left: calc(-70px / 2);
+    background: radial-gradient(goldenrod 0%,
+            goldenrod 64%,
+            transparent 76%,
+            transparent 100%);
+    box-shadow: 0 0 36px #da9800;
+    border-radius: 50%;
+}
+
+/*星球轨道*/
+[class*="-guidao"] {
+    position: absolute;
+    border: 1px dashed rgba(128, 128, 128, 0.4);
+    border-radius: 50%;
+    top: 50%;
+    left: 50%;
+}
+
+.shuixing-guidao {
+    height: calc(90px - 1px);
+    width: calc(90px - 1px);
+    margin-top: -45px;
+    margin-left: -45px;
+}
+
+.jinxing-guidao {
+    height: calc(120px - 1px);
+    width: calc(120px - 1px);
+    margin-top: -60px;
+    margin-left: -60px;
+}
+
+.diqiu-guidao {
+    height: calc(180px - 1px);
+    width: calc(180px - 1px);
+    margin-top: -90px;
+    margin-left: -90px;
+}
+
+.huoxing-guidao {
+    height: calc(240px - 1px);
+    width: calc(240px - 1px);
+    margin-top: -120px;
+    margin-left: -120px;
+}
+
+.muxing-guidao {
+    height: calc(380px - 1px);
+    width: calc(380px - 1px);
+    margin-top: -190px;
+    margin-left: -190px;
+}
+
+.tuxing-guidao {
+    height: calc(480px - 1px);
+    width: calc(480px - 1px);
+    margin-top: -240px;
+    margin-left: -240px;
+}
+
+.tianwangxing-guidao {
+    height: calc(580px - 1px);
+    width: calc(580px - 1px);
+    margin-top: -290px;
+    margin-left: -290px;
+}
+
+.haiwangxing-guidao {
+    height: calc(680px - 1px);
+    width: calc(680px - 1px);
+    margin-top: -340px;
+    margin-left: -340px;
+}
+
+/*小行星带*/
+.xiaoxingxingdai, .xiaoxingxing {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.xiaoxingxingdai {
+    box-sizing: border-box;
+    height: calc(330px - 1px);
+    width: calc(330px - 1px);
+    margin-top: -165px;
+    margin-left: -165px;
+    border-radius: 50%;
+    /*background: radial-gradient(
+            transparent 0%,
+            transparent 60%,
+            rgba(255, 255, 255, 0.01) 60%,
+            rgba(255, 255, 255, 0.05) 65%,
+            rgba(255, 255, 255, 0.01) 70%,
+            transparent 70%
+    );*/
+    animation: rotate 48s infinite linear;
+}
+
+.xiaoxingxing {
+    border-radius: 50%;
+    width: 280px;
+    height: 280px;
+    margin-left: -140px;
+    margin-top: -140px;
+    animation: rotate 48s infinite linear;
+}
+
+/*星球系统*/
+[class*="-xitong"] {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transition: 1s;
+}
+
+.shuixing-xitong {
+    height: 4px;
+    width: 4px;
+    margin-top: calc(-4px / 2 + 1px / 2);
+    margin-left: calc(-90px / 2 - 4px / 2 + 1px / 2);
+    transform-origin: calc(90px / 2 + 4px / 2) calc(4px / 2);
+    animation: rotate 4.4s infinite linear;
+}
+
+.jinxing-xitong {
+    height: 8px;
+    width: 8px;
+    margin-top: calc(-8px / 2);
+    margin-left: calc(-120px / 2 - 8px / 2);
+    transform-origin: calc(120px / 2 + 8px / 2) calc(8px / 2);
+    animation: rotate 11.235s infinite linear;
+}
+
+.diqiu-xitong {
+    height: 16px;
+    width: 16px;
+    margin-top: calc(-16px / 2);
+    margin-left: calc(-180px / 2 - 16px / 2);
+    transform-origin: calc(180px / 2 + 16px / 2) calc(16px / 2);
+    animation: rotate 18.262s infinite linear;
+}
+
+.huoxing-xitong {
+    height: 16px;
+    width: 16px;
+    margin-top: calc(-16px / 2);
+    margin-left: calc(-240px / 2 - 16px / 2);
+    transform-origin: calc(240px / 2 + 16px / 2) calc(16px / 2);
+    animation: rotate 34.349s infinite linear;
+}
+
+.muxing-xitong {
+    height: 40px;
+    width: 40px;
+    margin-top: calc(-40px / 2);
+    margin-left: calc(-380px / 2 - 40px / 2);
+    transform-origin: calc(380px / 2 + 40px / 2) calc(40px / 2);
+    animation: rotate 216.6215s infinite linear;
+}
+
+.tuxing-xitong {
+    height: 24px;
+    width: 24px;
+    margin-top: calc(-24px / 2);
+    margin-left: calc(-480px / 2 - 24px / 2);
+    transform-origin: calc(480px / 2 + 24px / 2) calc(24px / 2);
+    animation: rotate 541.616s infinite linear;
+}
+
+.tianwangxing-xitong {
+    height: 20px;
+    width: 20px;
+    margin-top: calc(-20px / 2);
+    margin-left: calc(-580px / 2 - 20px / 2);
+    transform-origin: calc(580px / 2 + 20px / 2) calc(20px / 2);
+    animation: rotate 1539.95s infinite linear;
+}
+
+.haiwangxing-xitong {
+    height: 18px;
+    width: 18px;
+    margin-top: calc(-18px / 2);
+    margin-left: calc(-680px / 2 - 18px / 2);
+    transform-origin: calc(680px / 2 + 18px / 2) calc(18px / 2);
+    animation: rotate 3009.6s infinite linear;
+}
+
+/*星球设置*/
+.shuixing {
+    height: 4px;
+    width: 4px;
+    animation: rotate 2.9325s infinite linear;
+    background: radial-gradient(deepskyblue 0%,
+            deepskyblue 55%,
+            transparent 70%,
+            transparent 100%);
+}
+
+.jinxing {
+    height: 8px;
+    width: 8px;
+    animation: rotate 12.15s infinite linear;
+    background: radial-gradient(gold 0%,
+            gold 60%,
+            transparent 70%,
+            transparent 100%);
+}
+
+.diqiu {
+    height: 16px;
+    width: 16px;
+    animation: rotate .05s infinite linear;
+    background: radial-gradient(royalblue 0%,
+            royalblue 60%,
+            transparent 70%,
+            transparent 100%);
+}
+
+.yueliang {
+    position: absolute;
+    top: -3px;
+    left: -3px;
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    transform-origin: 11px 11px;
+    animation: rotate 1.4765s infinite linear;
+    background: radial-gradient(lightgrey 0%,
+            lightgrey 60%,
+            transparent 70%,
+            transparent 100%);
+}
+
+.huoxing {
+    height: 16px;
+    width: 16px;
+    animation: rotate 0.0506s infinite linear;
+    background: radial-gradient(orangered 0%,
+            orangered 50%,
+            transparent 70%,
+            transparent 100%);
+}
+
+.muxing {
+    height: 40px;
+    width: 40px;
+    animation: rotate 0.021s infinite linear;
+    background: radial-gradient(#2a2a2a 0%,
+            #79694f 20%,
+            #7a7467 30%,
+            #7f6244 35%,
+            #c3d1d1 37%,
+            #918e85 40%,
+            #585858 54%,
+            #a6a6a6 58%,
+            transparent 65%,
+            transparent 70%);
+}
+
+.tuxing {
+    position: absolute;
+    height: 24px;
+    width: 24px;
+    border-radius: 50%;
+    animation: rotate 0.021s infinite linear;
+    background: radial-gradient(palegoldenrod 0%,
+            tan 10%,
+            burlywood 30%,
+            palegoldenrod 60%,
+            darkgray 100%);
+}
+
+.ring {
+    position: absolute;
+    top: calc((24px - 48px) / 2);
+    left: calc((24px - 48px) / 2);
+    width: 48px;
+    height: 48px;
+    animation: rotate 0.021s infinite linear;
+    background: radial-gradient(transparent 35%,
+            #bf9b4f 52%,
+            #648d90 58%,
+            transparent 70%);
+}
+
+.tianwangxing {
+    height: 20px;
+    width: 20px;
+    animation: rotate 0.0356s infinite linear;
+    background: radial-gradient(lightblue 0%,
+            lightblue 65%,
+            transparent 70%,
+            transparent 100%);
+}
+
+.haiwangxing {
+    height: 18px;
+    width: 18px;
+    animation: rotate 0.0333s infinite linear;
+    background: radial-gradient(steelblue 0%,
+            steelblue 65%,
+            transparent 70%,
+            transparent 100%);
+}
+
+/*使旋转*/
+@keyframes rotate {
+    100% {
+        transform: rotate(-360deg);
+    }
+}
+
+/*操作面板弹出按钮*/
+#optionBtn {
+    width: 72px;
+    height: 36px;
+    position: fixed;
+    bottom: 36px;
+    left: calc(100vw / 2 - 72px / 2);
+    line-height: 36px;
+    text-align: center;
+    color: #99CC99;
+    transition: 0.5s linear;
+    animation: opacity 3.6s ease-in-out infinite;
+}
+
+.optionBtnHide {
+    transform: rotateX(-180deg);
+}
+
+@keyframes opacity {
+    0% {
+        opacity: 0.8;
+    }
+
+    50% {
+        opacity: 0.05;
+    }
+
+    100% {
+        opacity: 0.8;
+    }
+}
+
+/*选项面板*/
+#option {
+    box-sizing: border-box;
+    position: fixed;
+    bottom: -200px;
+    left: calc(100vw / 2 - 400px / 2);
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 15px;
+    height: 200px;
+    width: 400px;
+    max-width: 100vw;
+    color: rgba(255, 255, 255, 0.5);
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 1);
+    transition: 0.6s ease-in-out;
+}
+
+.optionHide {
+    bottom: 100px !important;
+}
+
+#option table {
+    width: 100%;
+    height: 100%;
+}
+
+#option table td {
+    height: 30px;
+    text-align: center;
+}
+
+#option table td input {
+    width: 50%;
+    height: 30px;
+    text-align: center;
+}
+
+#option table td div {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+}
+
+#option button {
+    background-color: transparent;
+    border: transparent;
+    color: rgba(255, 255, 255, 0.5);
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+#option button:hover {
+    color: #99CC99;
+    cursor: pointer;
+}
+
+/*颜色选取*/
+#cc div:hover {
+    box-shadow: 0 0 3px deepskyblue;
+    cursor: pointer;
+}
+
+#cc div:nth-child(1) {
+    background-color: rgb(34, 39, 56);
+}
+
+#cc div:nth-child(2) {
+    background-color: rgb(11, 18, 51);
+}
+
+#cc div:nth-child(3) {
+    background-color: rgb(30, 54, 56);
+}
+
+#cc div:nth-child(4) {
+    background-color: rgb(43, 43, 43);
+}
+
+#cc div:nth-child(5) {
+    background-color: rgb(60, 92, 59);
+}
+
+/*语言切换*/
+#language {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    border: transparent;
+    border-radius: 4px;
+    width: 24px;
+    height: 24px;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0);
+}
+
+/*背景星星*/
+.xingxing {
+    height: 1px;
+    width: 1px;
+    background-color: transparent;
+    z-index: 1000;
+    animation: toTop 16s infinite linear;
+}
+
+@keyframes toTop {
+    0% {
+        transform: translateY(0);
+    }
+
+    100% {
+        transform: translateY(-100vh);
+    }
+}

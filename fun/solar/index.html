@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="utf-8">
+    <title>太阳系系统</title>
+    <link rel="stylesheet" href="./assest/css/main.css">
+    <link rel="shortcut icon" href="./assest/pic/solar.svg" type="image/x-icon">
+</head>
+
+<body>
+    <!--太阳系系统-->
+    <div class="taiyangxi">
+        <div class="xingxing"></div>
+        <!--太阳-->
+        <div class="taiyang"></div>
+        <!--水星-->
+        <div class="shuixing-guidao"></div>
+        <div class="shuixing-xitong">
+            <div class="shuixing"></div>
+        </div>
+        <!--金星-->
+        <div class="jinxing-guidao"></div>
+        <div class="jinxing-xitong">
+            <div class="jinxing"></div>
+        </div>
+        <!--地月系统-->
+        <div class="diqiu-guidao"></div>
+        <div class="diqiu-xitong">
+            <!--地球-->
+            <div class="diqiu"></div>
+            <!--月球-->
+            <div class="yueliang"></div>
+        </div>
+        <!--火星-->
+        <div class="huoxing-guidao"></div>
+        <div class="huoxing-xitong">
+            <div class="huoxing"></div>
+        </div>
+        <!--小行星带-->
+        <div class="xiaoxingxingdai"></div>
+        <div class="xiaoxingxing"></div>
+        <!--木星-->
+        <div class="muxing-guidao"></div>
+        <div class="muxing-xitong">
+            <div class="muxing"></div>
+        </div>
+        <!--木星-->
+        <div class="tuxing-guidao"></div>
+        <div class="tuxing-xitong">
+            <div class="tuxing"></div>
+            <div class="ring"></div>
+        </div>
+        <!--天王星-->
+        <div class="tianwangxing-guidao"></div>
+        <div class="tianwangxing-xitong">
+            <div class="tianwangxing"></div>
+        </div>
+        <!--海王星-->
+        <div class="haiwangxing-guidao"></div>
+        <div class="haiwangxing-xitong">
+            <div class="haiwangxing"></div>
+        </div>
+    </div>
+
+    <div id="optionBtn" onclick="popUp(this)">
+        <svg t="1581348631156" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg"
+            p-id="1959" width="32" height="32">
+            <path
+                d="M1021.28261 737.254254 512.697383 228.665956 4.114203 737.254254 65.145208 798.285259 512.697383 350.727966 960.251605 798.280142Z"
+                p-id="1960" fill="#99cc99"></path>
+        </svg>
+    </div>
+
+    <!--选项面板-->
+    <div id="option">
+        <input id="language" type="button" value="EN" onclick="changeLanguage(this)">
+        <table>
+            <tr>
+                <td class="zh">🌟背景</td>
+                <td class="en" style="display: none">Background Color</td>
+                <td id="cc">
+                    <div onclick="changeBgColor(this)"></div>
+                    <div onclick="changeBgColor(this)"></div>
+                    <div onclick="changeBgColor(this)"></div>
+                    <div onclick="changeBgColor(this)"></div>
+                    <div onclick="changeBgColor(this)"></div>
+                </td>
+            </tr>
+            <tr>
+                <td class="zh">✨数量</td>
+                <td class="en" style="display: none">Asteroid Number</td>
+                <td>
+                    <button onclick="RandomXiaoxingxing(0)">0</button>&nbsp;|&nbsp;<button
+                        onclick="RandomXiaoxingxing(1200)">100
+                    </button>&nbsp;|&nbsp;<button onclick="RandomXiaoxingxing(2400)">200
+                    </button>&nbsp;|&nbsp;<button onclick="RandomXiaoxingxing(4800)">400
+                    </button>&nbsp;|&nbsp;<button onclick="RandomXiaoxingxing(9600)">800
+                    </button>
+                </td>
+            </tr>
+            <tr>
+                <td class="zh">⭐随机</td>
+                <td class="en" style="display: none">Random Position</td>
+                <td>
+                    <button onclick="RandomPosition()">👽 ⏱</button>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+    <script src="./assest/js/solar.js"></script>
+
+</body>
+
+</html>
