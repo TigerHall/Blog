@@ -1,4 +1,4 @@
-## 摘要栏目说明 <!-- {docsify-ignore-all} -->
+## 摘要栏目说明 {docsify-ignore-all}
 
 ?> 会记载一些文章摘要
 
