@@ -1,7 +1,7 @@
 .sidebar-nav li {
   position: relative;
   margin: 0;
-  /* padding-left: 6px; */
+  padding-left: 6px;
   cursor: pointer;
 }
 .sidebar-nav ul:not(.app-sub-sidebar) > li:not(.file)::before {
@@ -12,7 +12,7 @@
   left: -12px;
   height: 6px;
   width: 6px;
-  border-right: 2px solid #5cf79c;
+  border-right: 2px solid #99cc99;
   border-bottom: 2px solid #2c86e6;
   transform: rotate(-45deg);
   transition: transform 0.1s;
