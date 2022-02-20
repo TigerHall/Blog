@@ -5,9 +5,15 @@
 
 - [📖 书籍](Page/Books/Readme "书籍栏目说明")
 
-  - [外文-利用地化数据](Page/Books/利用地化数据 "利用地化数据了解地质进程")
-    - [甲·书籍介绍](Page/Books/UGD/介绍-UGD "书籍介绍")
-  - [预告-海洋地球化学](Page/Books/海洋地球化学 "地球化学书籍翻译预告")
+  - [利用地化数据](Page/Books/利用地化数据 "利用地化数据了解地质进程")
+    - [甲·介绍](Page/Books/UGD/zh/甲 "地球化学数据")
+    - [已·分析](Page/Books/UGD/zh/已 "分析地球化学数据")
+    - [丙·主量](Page/Books/UGD/zh/丙 "主量元素")
+    - [丁·微量](Page/Books/UGD/zh/丁 "微量元素")
+    - [戊·构造](Page/Books/UGD/zh/戊 "构造识别")
+    - [己·放射](Page/Books/UGD/zh/己 "放射性同位素")
+    - [庚·稳定](Page/Books/UGD/zh/庚 "稳定同位素")
+  <!-- - [预告-海洋地球化学](Page/Books/海洋地球化学 "地球化学书籍翻译预告") -->
 
 - [😶‍🌫️ 鲁迅](/Page/Books/LuXun/鲁迅文集.md "鲁迅文集 · 经典阅读")
 
@@ -30,3 +36,11 @@
 
   - [Emoji 支持](Page/Test/Emoji "🤣💓😂")
   - [测试笔记](Page/Test/测试笔记 "测试🔧笔记")
+  - UGD
+    - [1·介绍](Page/Books/UGD/en/1 "Geochemical Data")
+    - [2·分析](Page/Books/UGD/en/2 "Analysing Geochemical Data")
+    - [3·主量](Page/Books/UGD/en/3 "Major Element Data")
+    - [4·微量](Page/Books/UGD/en/4 "Trace Element Data")
+    - [5·构造](Page/Books/UGD/en/5 "Geochemical Data to Identify Tectonic Environments")
+    - [6·放射](Page/Books/UGD/en/6 "Radiogenic Isotope Data")
+    - [7·稳定](Page/Books/UGD/en/7 "Stable Isotope Data")
