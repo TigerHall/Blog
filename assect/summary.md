@@ -2,6 +2,7 @@
 
   - [Dupal 异常](Page/Brief/Dupal异常 "关于Dupal异常的说明")
   - [IODP 计划](Page/Brief/IODP计划 "关于IODP计划的简介")
+  - [基础概念](Page/Brief/一些缩写概念 "一些基础概念缩写介绍")
 
 - [📖 书籍](Page/Books/Readme "书籍栏目说明")
 
