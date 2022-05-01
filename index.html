@@ -9,7 +9,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
 
   <!-- 网站图标 -->
-  <link rel="shortcut icon" href="./assect/pic/logo.svg" type="image/x-icon">
+  <link rel="shortcut icon" href="./assect/pic/logo.svg" type="image/x-icon" />
 
   <!-- / FB Open Graph -->
   <meta property="og:type" content="article" />
@@ -37,7 +37,7 @@
       homepage: "/Readme.md",
       coverpage: false,
       loadSidebar: "./assect/summary.md",
-      autoHeader: true,
+      autoHeader: false,
       auto2top: true, //切换页面后是否自动跳转到页面顶部
       notFoundPage: "/assect/404.md", // 自定义404页面
 
@@ -61,6 +61,13 @@
         crossChapterText: true,
       },
 
+      // 文章更新时间
+      timeUpdater: {
+        text: "> **本文最后更新于:** {docsify-updated}",
+        formatUpdated: "{YYYY} 年 {MM} 月 {DD} 日",
+        whereToPlace: "bottom", // "top" or "bottom"
+      },
+
       // 代码复制
       copyCode: {
         buttonText: "🔗",
@@ -70,8 +77,8 @@
 
       // 页脚
       footer: {
-        copy: "<span>TigerHall &copy; 2022</span>",
-        auth: "何虎的笔记",
+        copy: "<a href='https://hehu.fun' target='_Blank'>何虎</a><span>&copy</span><a href='https://dizhischool.cn' target='_Blank'> 2022</a>",
+        auth: "<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'><img src='./assect/pic/copyright.svg' style='vertical-align: middle;'></a>",
         pre: "<hr/>",
         style: "text-align: center;",
         class: "className",
@@ -153,6 +160,9 @@
   <!-- 图片缩放 -->
   <script src="./assect/js/zoom-image.min.js"></script>
 
+  <!-- 图片标题  -->
+  <script src="./assect/js/docsify-image-caption.min.js"></script>
+
   <!-- 字数统计 -->
   <script src="./assect/js/countable.min.js"></script>
 
@@ -189,6 +199,9 @@
 
   <!--浏览器动态标题-->
   <script src="./assect/js/FunnyTitle.js"></script>
+
+  <!-- 文章更新时间 -->
+  <script src="./assect/js/time-updater.min.js"></script>
 
   <!-- PWA -->
   <script>
