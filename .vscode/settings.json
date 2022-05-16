@@ -1,7 +1,8 @@
 {
-    "carbon.fontFamily": "Fira Code",
-    "editor.fontFamily": "Fira Code",
-    "editor.fontLigatures": true,
-    "git.ignoreLimitWarning": true,
-    "compile-hero.disable-compile-files-on-did-save-code": true
+  "carbon.fontFamily": "Fira Code",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "git.ignoreLimitWarning": true,
+  "compile-hero.disable-compile-files-on-did-save-code": true,
+  "liveServer.settings.port": 8080,
 }
