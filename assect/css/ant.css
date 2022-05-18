@@ -94,3 +94,12 @@ details summary::-webkit-details-marker {
   border: 3px solid #99cc99;
   border-radius: 1em;
 } */
+
+/* 可口可乐字体 */
+@font-face {
+  font-family: 'Coca';
+  src: local(''),
+    url('/assect/Font/Coca.TTF') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
