@@ -103,3 +103,21 @@ details summary::-webkit-details-marker {
   font-weight: normal;
   font-style: normal;
 }
+
+/* Firecode */
+@font-face {
+  font-family: 'Fira';
+  src: local(''),
+    url('/assect/Font/FiraCode/FiraCode-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* CascadiaCode */
+@font-face {
+  font-family: 'Casc';
+  src: local(''),
+    url('/assect/Font/Casc.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
