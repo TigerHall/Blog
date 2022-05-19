@@ -42,13 +42,11 @@ $("body").on("touchmove", function (e) {
     Y = moveEndY - startY;
 
   if (Math.abs(X) > Math.abs(Y) && X > 0) {
-    document.location.href = nextLink;
-    // alert("左到右");
+    alert("左到右");
     // $("#myCarousel").carousel('prev');
   }
   else if (Math.abs(X) > Math.abs(Y) && X < 0) {
-    document.location.href = previousLink
-    // alert("右到左");
+    alert("右到左");
     // $("#myCarousel").carousel('next');
   }
   else if (Math.abs(Y) > Math.abs(X) && Y > 0) {
