@@ -27,35 +27,3 @@ document.onkeydown = (e) => {
 window.$docsify.plugins = (window.$docsify.plugins || []).concat([
   (hook, vm) => hook.doneEach(linkRefresher)
 ]);
-
-//监听用户滑动手势
-$("body").on("touchstart", function (e) {
-  e.preventDefault();
-  startX = e.originalEvent.changedTouches[0].pageX,
-    startY = e.originalEvent.changedTouches[0].pageY;
-});
-$("body").on("touchmove", function (e) {
-  e.preventDefault();
-  moveEndX = e.originalEvent.changedTouches[0].pageX,
-    moveEndY = e.originalEvent.changedTouches[0].pageY,
-    X = moveEndX - startX,
-    Y = moveEndY - startY;
-
-  if (Math.abs(X) > Math.abs(Y) && X > 0) {
-    alert("左到右");
-    // $("#myCarousel").carousel('prev');
-  }
-  else if (Math.abs(X) > Math.abs(Y) && X < 0) {
-    alert("右到左");
-    // $("#myCarousel").carousel('next');
-  }
-  else if (Math.abs(Y) > Math.abs(X) && Y > 0) {
-    // alert("上到下");
-  }
-  else if (Math.abs(Y) > Math.abs(X) && Y < 0) {
-    // alert("下到上");
-  }
-  else {
-    //alert("just touch");
-  }
-});
