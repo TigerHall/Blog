@@ -91,10 +91,6 @@ body {
   overflow-x: hidden;
 }
 
-.markdown-section h2 {
-  color: #fff;
-}
-
 img {
   max-width: 100%;
 }
@@ -755,13 +751,13 @@ body {
 }
 
 .sidebar li {
-  margin: 6px 0;
+  margin-left: 6px;
 }
 
 .sidebar ul li a {
   color: var(--sidebarSublink);
-  font-size: 16px;
-  font-weight: 400;
+  font-size: 18px;
+  font-weight: 300;
   overflow: hidden;
   text-decoration: none;
   text-overflow: ellipsis;
@@ -804,26 +800,30 @@ body {
 }
 
 .markdown-section h1 {
+  color: #99a1cc;
   font-size: 2rem;
   margin: 0 0 1rem;
 }
 
 .markdown-section h2 {
-  color: #99cc99;
+  color: #9c9;
   font-size: 1.75rem;
   margin: 45px 0 0.8rem;
 }
 
 .markdown-section h3 {
+  color: rgb(153, 204, 204);
   font-size: 1.5rem;
   margin: 40px 0 0.6rem;
 }
 
 .markdown-section h4 {
+  color: rgb(204, 203, 153);
   font-size: 1.25rem;
 }
 
 .markdown-section h5 {
+  color: rgb(204, 153, 201);
   font-size: 1rem;
 }
 
@@ -834,7 +834,7 @@ body {
 
 .markdown-section figure,
 .markdown-section p {
-  margin: 1.2em 0;
+  margin-top: 1.2em;
 }
 
 .markdown-section ol,
