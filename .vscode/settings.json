@@ -1,6 +1,6 @@
 {
   "carbon.fontFamily": "Fira Code",
-  "editor.fontFamily": "'Coca-ColaCareFontKaiTi-可口可乐在乎体','Fira Code'",
+  "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
   "git.ignoreLimitWarning": true,
   "compile-hero.disable-compile-files-on-did-save-code": true,
