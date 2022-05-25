@@ -4,8 +4,8 @@
 
 ## 目前已更新内容
 
-- [地学大数据](Page/Paper/地学大数据 "部分地学大数据系列文献收录")
-- [沉积地球化学](Page/Paper/沉积地球化学 "部分海洋地球化学文献收录")
+- [地学大数据](Page/Paper/Geoscience-Data "部分地学大数据系列文献收录")
+- [沉积地球化学](Page/Paper/Biochemical-Deposit "部分海洋地球化学文献收录")
 
 ## 待完成内容
 

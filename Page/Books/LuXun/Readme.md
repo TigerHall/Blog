@@ -4,7 +4,7 @@
 
 ## 目前更新内容
 
-[鲁迅文集 · 坟](Page/Books/LuXun/坟.md "鲁迅文集 · 坟")
+[鲁迅文集 · 坟](Page/Books/LuXun/Tomb "鲁迅文集 · 坟")
 
 ## 待更新内容
 
