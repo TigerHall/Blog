@@ -1,0 +1,33 @@
+# 临时测试笔记{docsify-ignore}
+
+无内容
+
+- 上标：30^th^
+- 下标：H~2~O
+- 脚注：Content [^1]
+  [^1]:Hi 这里是一个注脚，会自动拉到最后面排版
+
+## 图片链接
+
+[![小熊不想让你按按钮](../../fun/bearcheck/Previews.png?center "小熊不想让你按按钮" )](../../fun/bearcheck/index.html ':ignore')
+
+[![太阳系](../../fun/solar/Previews.png?center "太阳系")](../../fun/solar/index.html ':ignore')
+
+### 网站信息
+
+<br>
+
+<!-- 访问量等信息 -->
+<span id="busuanzi_container_site_pv" style='display:none'>
+▶👀 总访问量：<span id="busuanzi_value_site_pv"></span> 次
+</span>
+<br>
+<span id="busuanzi_container_site_uv" style='display:none'>
+▶🚴‍♂️ 总访客数：<span id="busuanzi_value_site_uv"></span> 人
+</span>
+<br>
+<span id="sitetime">
+⏱️
+</span>
+
+?> [IODP 计划](Page/Brief/IODP计划 "关于IODP 计划的笔记")
