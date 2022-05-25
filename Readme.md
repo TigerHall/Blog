@@ -57,11 +57,11 @@ class="underline"
 <br>
 <!-- 访问量等信息 -->
 <span id="busuanzi_container_site_pv" style='display:none'>
-▶👀 总访问量：<span id="busuanzi_value_site_pv"></span> 次
+👀 总访问量：<span id="busuanzi_value_site_pv"></span> 次
 </span>
 <br>
 <span id="busuanzi_container_site_uv" style='display:none'>
-▶🚴‍♂️ 总访客数：<span id="busuanzi_value_site_uv"></span> 人
+🚴‍♂️ 总访客数：<span id="busuanzi_value_site_uv"></span> 人
 </span>
 <br>
 <span id="sitetime">
