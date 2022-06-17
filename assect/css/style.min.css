@@ -377,8 +377,8 @@ body.sticky .sidebar-toggle {
 
 .markdown-section {
   margin: 0 auto;
-  max-width: 90%;
-  padding: 30px 15px 40px;
+  max-width: 94%;
+  padding: 5px;
   position: relative;
 }
 
@@ -859,8 +859,8 @@ body {
 .markdown-section ol,
 .markdown-section p,
 .markdown-section ul {
-  line-height: 1.6rem;
-  word-spacing: 0.05rem;
+  line-height: 2rem;
+  word-spacing: 0rem;
 }
 
 .markdown-section ol,
