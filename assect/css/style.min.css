@@ -1,5 +1,3 @@
-@import url("https://fonts.googleapis.com/css?family=PT+Sans&Source+Sans+Pro&Roboto+Mono&display=swap");
-
 * {
   -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
@@ -800,36 +798,57 @@ body {
 }
 
 .markdown-section h1 {
-  color: #99a1cc;
+  color: #9ac;
   font-size: 2rem;
   margin: 0 0 1rem;
 }
 
+
 .markdown-section h2 {
-  color: #9c9;
+  color: #bcb;
   font-size: 1.75rem;
   margin: 45px 0 0.8rem;
 }
 
+.markdown-section h2>a>span {
+  color: #9c9;
+}
+
 .markdown-section h3 {
-  color: rgb(153, 204, 204);
+  color: #bcb;
   font-size: 1.5rem;
   margin: 40px 0 0.6rem;
 }
 
+.markdown-section h3>a>span {
+  color: #9cc;
+}
+
 .markdown-section h4 {
-  color: rgb(204, 203, 153);
+  color: #bcb;
   font-size: 1.25rem;
 }
 
+.markdown-section h4>a>span {
+  color: #cc9;
+}
+
 .markdown-section h5 {
-  color: rgb(204, 153, 201);
+  color: #bcb;
   font-size: 1rem;
 }
 
+.markdown-section h5>a>span {
+  color: #c99;
+}
+
 .markdown-section h6 {
-  color: #777;
+  color: #bcb;
   font-size: 1rem;
+}
+
+.markdown-section h6>a>span {
+  color: #777;
 }
 
 .markdown-section figure,
