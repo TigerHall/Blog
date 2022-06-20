@@ -99,26 +99,26 @@ details summary::-webkit-details-marker {
 @font-face {
   font-family: 'Coca';
   src: local(''),
-    url('/assect/Font/Coca.woff2') format('woff2');
+    url('../Font/Coca.woff2') format('woff2');
 }
 
 /* Firecode */
 @font-face {
   font-family: 'Fira';
   src: local(''),
-    url('/assect/Font/FiraCode/FiraCode-Regular.woff2') format('woff2');
+    url('../Font/FiraCode/FiraCode-Regular.woff2') format('woff2');
 }
 
 /* CascadiaCode */
 @font-face {
   font-family: 'Casc';
   src: local(''),
-    url('/assect/Font/CascadiaMono.woff2') format('woff2');
+    url('../Font/CascadiaMono.woff2') format('woff2');
 }
 
 /* LXGWZhenKai*/
 @font-face {
   font-family: 'LXGW';
   src: local(''),
-    url('/assect/Font/LXGWZhenKai.woff2') format('woff2');
+    url('../Font/LXGWZhenKai.woff2') format('woff2');
 }
