@@ -1,4 +1,4 @@
-# 利用地化数据-第二版 作者：Hugh Rollinson
+# 利用地化数据-第二版 作者：Hugh Rollinson {docsify-ignore-all}
 
 [**_Using Geochemical Data To Understand Geological Processes_**](https://doi.org/10.1017/9781108777834 "利用地化数据原文链接")
 
@@ -14,7 +14,11 @@
 
 ## 原文预览
 
-<iframe width="100%" height="800px" src="https://book.petrology.cn/OEBPS/Text/toc.xhtml"></iframe>
+- [英文原文-Azure源](https://book.petrology.cn/OEBPS/Text/toc.xhtml)
+
+- [英文原文-Gitte源](https://tigerhall.gitee.io/ugd/OEBPS/Text/toc.xhtml)
+
+<!-- <iframe width="100%" height="800px" src="https://book.petrology.cn/OEBPS/Text/toc.xhtml"></iframe> -->
 
 ---
 
