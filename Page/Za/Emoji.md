@@ -6,27 +6,21 @@
 
 :relaxed:
 :smirk:
-
 :stuck_out_tongue:
 :sleeping:
-
 :pensive:
 :disappointed:
 :confounded:
-
 :rage:
 :triumph:
 :sleepy:
 :yum:
 :mask:
-
 :cupid:
-
 :dash:
 :sweat_drops:
 :ear:
 :eyes:
-
 :rage1:
 :rage2:
 :rage3:
@@ -39,23 +33,18 @@
 :umbrella:
 :cloud:
 :snowflake:
-
 :tiger:
 :koala:
 :bear:
-
 :octopus:
 :tropical_fish:
 :fish:
-
 :fallen_leaf:
 :herb:
 :mushroom:
 :cactus:
 :palm_tree:
-
 :waxing_crescent_moon:
-
 :volcano:
 :milky_way:
 :partly_sunny:
@@ -66,29 +55,21 @@
 :bamboo:
 :gift_heart:
 :dolls:
-
 :gift:
-
 :minidisc:
-
 :nut_and_bolt:
 :hammer:
 :seat:
-
 :package:
 :door:
 :smoking:
 :bomb:
 :gun:
 :hocho:
-
 :microscope:
 :telescope:
-
 :trophy:
-
 :black_joker:
-
 :boot:
 :shirt:
 :tshirt:
@@ -96,21 +77,17 @@
 :womans_clothes:
 :dress:
 :running_shirt_with_sash:
-
 :pouch:
 :purse:
-
 :curry:
 :fried_shrimp:
 :bento:
-
 :candy:
 :lollipop:
 :honey_pot:
 :apple:
 :green_apple:
 :tangerine:
-
 :eggplant:
 :tomato:
 :corn:
@@ -119,19 +96,14 @@
 
 :house:
 :house_with_garden:
-
 :ferris_wheel:
 :fountain:
-
 :suspension_railway:
 :mountain_cableway:
 :tractor:
-
 :moyai:
-
 :kr:
 :cn:
-
 :uk:
 :de:
 
@@ -143,32 +115,23 @@
 :four:
 :five:
 :six:
-
 :arrow_double_down:
 :arrow_double_up:
-
 :arrows_clockwise:
 :arrows_counterclockwise:
 :rewind:
 :fast_forward:
 :information_source:
-
 :u7a7a:
 :u7981:
-
 :ideograph_advantage:
-
 :no_pedestrians:
 :children_crossing:
 :no_entry:
 :eight_spoked_asterisk:
-
 :clock430:
-
 :clock8:
-
 :heavy_check_mark:
-
 :large_blue_diamond:
 :large_orange_diamond:
 
@@ -183,6 +146,21 @@
 ## plantuml 测试
 
 ```plantuml
+
+@startuml
+爱丽丝 -> 鲍克勃: 好朋友
+李维斯 --> 爱丽丝: 好基友
+
+贾维斯 -> 鲍克勃: 青梅
+克里斯 <-- 鲍克勃: 竹马
+@enduml
+
+```
+
+不同
+
+```plantuml
+
 @startuml
 Alice -> Bob: Authentication Request
 Bob --> Alice: Authentication Response
@@ -190,4 +168,20 @@ Bob --> Alice: Authentication Response
 Alice -> Bob: Another authentication Request
 Alice <-- Bob: another authentication Response
 @enduml
+```
+
+```plantuml
+
+@startuml
+actor Bob #red
+' The only difference between actor
+'and participant is the drawing
+participant Alice
+participant "I have a really\nlong name" as L #99CC99
+
+Alice->Bob: Authentication Request
+Bob->Alice: Authentication Response
+Bob->L: Log transaction
+@enduml
+
 ```
