@@ -1,4 +1,4 @@
-# 临时测试笔记{docsify-ignore}
+# 临时测试笔记
 
 无内容
 
@@ -46,4 +46,4 @@ print()
 ⏱️
 </span>
 
-?> [IODP 计划](Page/Brief/IODP计划 "关于IODP 计划的笔记")
+?> [IODP 计划](Page/Brief/IODP "关于IODP 计划的笔记")

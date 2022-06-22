@@ -1,16 +1,16 @@
-# 利用地化数据-第二版 作者：Hugh Rollinson {docsify-ignore-all}
+# 利用地化数据-第二版 作者：*Hugh Rollinson*
 
-[**_Using Geochemical Data To Understand Geological Processes_**](https://doi.org/10.1017/9781108777834 "利用地化数据原文链接")
+[***Using Geochemical Data To Understand Geological Processes***](https://doi.org/10.1017/9781108777834 "利用地化数据原文链接")
 
 一共有**九**个大章节
 
-- _Ⅰ -_ 介绍-Geochemical Data
-- _Ⅱ -_ 分析-Analysing Geochemical Data
-- _Ⅲ -_ 主量-Using Major Element Data
-- _Ⅳ -_ 微量-Using Trace Element Data
-- _Ⅴ -_ 构造-Using Geochemical Data to Identify Tectonic Environments
-- _Ⅵ -_ 放射-Using Radiogenic Isotope Data
-- _Ⅶ -_ 稳定-Using Stable Isotope Data
+- *Ⅰ -* 介绍-Geochemical Data
+- *Ⅱ -* 分析-Analysing Geochemical Data
+- *Ⅲ -* 主量-Using Major Element Data
+- *Ⅳ -* 微量-Using Trace Element Data
+- *Ⅴ -* 构造-Using Geochemical Data to Identify Tectonic Environments
+- *Ⅵ -* 放射-Using Radiogenic Isotope Data
+- *Ⅶ -* 稳定-Using Stable Isotope Data
 
 ## 原文预览
 

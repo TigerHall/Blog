@@ -1,4 +1,4 @@
-# 坟 {docsify-ignore}
+# 坟
 
 ## 题记
 

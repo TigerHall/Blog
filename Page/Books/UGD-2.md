@@ -1,4 +1,4 @@
-# 第 2 章 | 分析地球化学数据 {docsify-ignore}
+# 第 2 章 | 分析地球化学数据
 
 > 原文： [**_Using Geochemical Data To Understand Geological Processes_**](https://doi.org/10.1017/9781108777834 "利用地化数据原文链接")
 

@@ -1,5 +1,4 @@
-# 第 4 章 | 利用微量元素数据 {docsify-ignore}
-
+# 第 4 章 | 利用微量元素数据
 > 原文： [**_Using Geochemical Data To Understand Geological Processes_**](https://doi.org/10.1017/9781108777834 "利用地化数据原文链接")
 
 ## 简介
