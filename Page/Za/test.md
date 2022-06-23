@@ -25,9 +25,21 @@ print()
 021326546asd
 ```
 
+### 视频
+
+B站
+
+<iframe src="//player.bilibili.com/player.html?aid=426400323&bvid=BV1V3411N7cE&cid=716242382&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600px"> </iframe>
+
+本地
+
+<video src="/Page/za/test.mp4" width="96%" controls="controls" style="clear:both; display:block; margin:auto"></video>
+
 插入 html 文件
 
-<iframe width="96%" height="700px" src="/Page/za/test.html"></iframe>
+<iframe height="650px" src="/Page/za/test.html"></iframe>
+
+音乐
 
 ### 网站信息
 

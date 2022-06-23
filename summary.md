@@ -8,6 +8,4 @@
 
 - [📖 书籍阅览](Page/Books/Readme "利用地化数据，鲁迅文集")
 
-- [👁️ 测试及其他](Page/Za/OutworkTip "测试，博客等")
-
 - [🔗 网站首页](Readme "关于网站的说明")

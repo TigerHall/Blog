@@ -10,9 +10,13 @@
   - [UGD-己·放射](Page/Books/UGD-6 "放射性同位素")
   - [UGD-庚·稳定](Page/Books/UGD-7 "稳定同位素")
 
-- [👁️ 鲁迅文集](Page/Books/LXReadme "鲁迅文集 · 经典阅读")
+- [👁️ 鲁迅文集](Page/Books/LX "鲁迅文集 · 经典阅读")
   - [坟](Page/Books/LX-Tomb "鲁迅文集 · 卷1-坟")
   - [呐喊](Page/Books/LX-Call-to-Arms "鲁迅文集 · 卷1-呐喊")
   - [野草](Page/Books/LX-Wild-Grass "鲁迅文集 · 卷1-野草")
+  - [热风](Page/Books/LX-Hot-Wind "鲁迅文集 · 卷2-热风")
+  - [彷徨](Page/Books/LX-Wandering "鲁迅文集 · 卷2-彷徨")
+  - [朝花夕拾](Page/Books/LX-Dawn-Blossoms-Plucked-at-Dusk "鲁迅文集 · 卷2-朝花夕拾")
+  - [故事新编](Page/Books/LX-Old-Tales-Retold.md "鲁迅文集 · 卷2-故事新编")
 
 - [🔗 网站首页](Readme "关于网站的说明")
