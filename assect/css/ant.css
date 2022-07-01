@@ -58,8 +58,9 @@ h6:before {
 /* 图片居中显示，小图设置 */
 
 img[src*="small"] {
-  max-width: 60px;
+  max-width: 100px;
   height: auto;
+  margin-left: 2px;
   text-align: left;
 }
 
