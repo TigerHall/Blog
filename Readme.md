@@ -9,17 +9,15 @@
 ## 推荐阅读
 
 > [Dupal 笔记](Page/Brief/Dupal "Dupal异常的研究") &
-> [测试笔记](Page/Test/test "🔧笔记")
+> [🚧 测试](Page/Za/tReadme "测试🔧栏目说明")
 
 ## 更新摘要
 
 1. 创建了 Blog 页面
-1. 定制侧边栏
-1. 修改目录
-1. 整理文件目录
+1. 定制各级侧边栏目录
 1. 优化技术呈现路线
 
-## 目前问题
+## 目前可能存在的问题
 
 - 手机（屏幕较小）用户~~应该可~~点击屏幕左下角的 **侧边栏** 按钮，调出侧边目录栏查看各篇文章。
 
@@ -31,42 +29,10 @@
 
 开源项目 [docsify](https://github.com/docsifyjs/docsify/) 以及广大互联网上的公开资源
 
-[国内链接：](https://tigerhall.gitee.io/blog)
+[国内链接](https://tigerhall.gitee.io/blog)
 
-[![头像图片超链接](./assect/pic/head.jpg?small)](https://tigerhall.gitee.io)
+[地质校园](https://tigerhall.gitee.io)
 
-## 我的 ORCID ID
+### 我的 ![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png ":size=20")  [-ORCID](https://orcid.org/0000-0002-6962-8707)
 
-<a
-id="cy-effective-orcid-url"
-class="underline"
-    href="https://orcid.org/0000-0002-6962-8707"
-    target="orcid.widget"
-    rel="me noopener noreferrer"
-    style="vertical-align: top">
-    <img
-    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-    style="width: 1em; margin-inline-start: 0.5em"
-    alt="ORCID iD icon"/>
-    https://orcid.org/0000-0002-6962-8707
-</a>
-
-## 网站信息
-
-<br>
-<!-- 访问量等信息 -->
-<span id="busuanzi_container_site_pv" style='display:none'>
-👀 总访问量：<span id="busuanzi_value_site_pv"></span> 次
-</span>
-<br>
-<span id="busuanzi_container_site_uv" style='display:none'>
-🚴‍♂️ 总访客数：<span id="busuanzi_value_site_uv"></span> 人
-</span>
-<br>
-<span id="sitetime">
-⏱️
-</span>
-
-## 网页测试与个人生活记录
-
-- [🚧 测试](Page/Za/tReadme "测试栏目说明")
+### ⏱️ 网站运行 :id=sitetime
