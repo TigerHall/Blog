@@ -33,6 +33,6 @@
 
 [地质校园](https://tigerhall.gitee.io)
 
-### 我的 ![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png ":size=20")  [-ORCID](https://orcid.org/0000-0002-6962-8707)
+### 我的 ![ORCID](../../assect/pic/orcid.svg ":size=20")  [-ORCID](https://orcid.org/0000-0002-6962-8707)
 
 ### ⏱️ 网站运行 :id=sitetime

@@ -41,21 +41,8 @@ B站
 
 音乐
 
-### 网站信息
+### 我的 ![ORCID](../../assect/pic/orcid.svg ":size=20") [-ORCID](https://orcid.org/0000-0002-6962-8707)
 
-<br>
-
-<!-- 访问量等信息 -->
-<span id="busuanzi_container_site_pv" style='display:none'>
-▶👀 总访问量：<span id="busuanzi_value_site_pv"></span> 次
-</span>
-<br>
-<span id="busuanzi_container_site_uv" style='display:none'>
-▶🚴‍♂️ 总访客数：<span id="busuanzi_value_site_uv"></span> 人
-</span>
-<br>
-<span id="sitetime">
-⏱️
-</span>
+### ⏱️ 网站运行 :id=sitetime
 
 ?> [IODP 计划](Page/Brief/IODP "关于IODP 计划的笔记")

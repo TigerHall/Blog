@@ -10,18 +10,4 @@
 
 - 插入网页测试
 
-## 我的 ORCID iD
-
-<a
-id="cy-effective-orcid-url"
-class="underline"
-    href="https://orcid.org/0000-0002-6962-8707"
-    target="orcid.widget"
-    rel="me noopener noreferrer"
-    style="vertical-align: top">
-    <img
-    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-    style="width: 1em; margin-inline-start: 0.5em"
-    alt="ORCID iD icon"/>
-    https://orcid.org/0000-0002-6962-8707
-</a>
+## 我的 ![ORCID](https://raw.githubusercontent.com/TigerHall/Blog/master/assect/pic/orcid.svg ":size=20")  [-ORCID](https://orcid.org/0000-0002-6962-8707)
