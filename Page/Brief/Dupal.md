@@ -1,4 +1,4 @@
-# Dupal 介绍 {docsify-ignore}
+# Dupal 介绍
 
 ## Dupal 异常是什么
 

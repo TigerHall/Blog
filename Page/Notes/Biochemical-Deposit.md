@@ -1,4 +1,4 @@
-# 生物化学沉积{docsify-ignore}
+# 生物化学沉积
 
 ## [微生物与海洋全球变化](https://www.nature.com/articles/nmicrobiol201758)
 

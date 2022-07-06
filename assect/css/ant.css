@@ -101,6 +101,7 @@ details summary::-webkit-details-marker {
   font-family: 'Coca';
   src: local(''),
     url('../Font/Coca.woff2') format('woff2');
+  font-weight: bolder;
 }
 
 /* Firecode */

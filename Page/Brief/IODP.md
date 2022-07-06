@@ -1,4 +1,4 @@
-# IODP计划介绍 {docsify-ignore}
+# IODP计划介绍
 
 ## IODP 计划的历史
 

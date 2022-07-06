@@ -788,21 +788,24 @@ body {
 .markdown-section h4,
 .markdown-section strong {
   color: var(--textColor);
-  font-weight: 600;
+  font-weight: bolder;
 }
 
 .markdown-section a {
   color: var(--accent);
-  font-weight: 600;
+  font-weight: bolder;
   text-decoration: none;
 }
 
 .markdown-section h1 {
-  color: #9ac;
+  color: #bcb;
   font-size: 2rem;
   margin: 0 0 1rem;
 }
 
+/* .markdown-section h1>a>span {
+  color: #bcb;
+} */
 
 .markdown-section h2 {
   color: #bcb;
@@ -811,7 +814,7 @@ body {
 }
 
 .markdown-section h2>a>span {
-  color: #9c9;
+  color: #9c6;
 }
 
 .markdown-section h3 {
@@ -821,7 +824,7 @@ body {
 }
 
 .markdown-section h3>a>span {
-  color: #9cc;
+  color: #9c9;
 }
 
 .markdown-section h4 {
@@ -830,7 +833,7 @@ body {
 }
 
 .markdown-section h4>a>span {
-  color: #cc9;
+  color: #9cc;
 }
 
 .markdown-section h5 {
@@ -839,7 +842,7 @@ body {
 }
 
 .markdown-section h5>a>span {
-  color: #c99;
+  color: #9cf;
 }
 
 .markdown-section h6 {
@@ -854,6 +857,10 @@ body {
 .markdown-section figure,
 .markdown-section p {
   margin-top: 1.2em;
+}
+
+.markdown-section p>strong {
+  color: #369;
 }
 
 .markdown-section ol,
