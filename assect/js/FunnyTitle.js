@@ -73,7 +73,7 @@ function showLogin() {
     } else {
       OriginTitle = document.title;
     }
-    document.title = OriginTitle + " 已阅读本站 " + t;
+    document.title = OriginTitle + " 已阅 " + t;
   }
 }
 setInterval("showLogin()", "1000");
