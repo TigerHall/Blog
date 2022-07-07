@@ -351,13 +351,13 @@ main.hidden {
 }
 
 .sidebar-toggle {
-  background-color: #8f908f64;
+  background-color: transparent;
   border: 0;
   border-radius: 3px;
   outline: none;
-  padding: 10px 10px 4px 10px;
+  padding: 0;
   position: absolute;
-  top: 20px;
+  top: 16px;
   left: 10px;
   text-align: center;
   transition: opacity 0.5s;
@@ -370,12 +370,17 @@ main.hidden {
   opacity: 0.5;
 }
 
+.sidebar-toggle:active .sidebar-toggle-button {
+  opacity: 0.9;
+  background-color: #333;
+}
+
 .sidebar-toggle span {
   background-color: var(--accent);
   display: block;
   margin-bottom: 6px;
   width: 36px;
-  height: 6px;
+  height: 4px;
 }
 
 body.sticky .sidebar,
@@ -510,6 +515,7 @@ body.close .content {
   .app-nav,
   .github-corner,
   .sidebar,
+  div#upupup,
   .sidebar-toggle {
     display: none;
   }
@@ -557,7 +563,7 @@ body.close .content {
   .sidebar-toggle {
     background-color: transparent;
     width: 300px;
-    padding: 30px 30px 10px 10px;
+    padding: 0px;
   }
 
   body.close .sidebar {
@@ -567,7 +573,7 @@ body.close .content {
   body.close .sidebar-toggle {
     transition: background-color 1s;
     width: 300px;
-    padding: 10px;
+    padding: 0px;
   }
 
   body.close .content {
@@ -1101,4 +1107,12 @@ pre:after {
 
 #docsify-darklight-theme p {
   visibility: hidden;
+}
+
+#docsify-darklight-theme:hover {
+  opacity: 0.5;
+}
+
+#docsify-darklight-theme:active {
+  opacity: 0.9;
 }
