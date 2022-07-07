@@ -1,4 +1,6 @@
 <!-- 摘要目录 -->
+# 摘要目录 {docsify-ignore}
+
 - [🧿 研究摘要](Page/Brief/Readme "摘要栏目介绍")
 
   - [印度洋DUPAL](Page/Brief/IndoDupal "印度洋DUPAL异常范围厘定及成因初探-个人论文")
