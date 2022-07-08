@@ -64,7 +64,7 @@ function siteTime() {
     // console.log(document.getElementById('sitetime'))
 
     document.getElementById("sitetime").innerHTML =
-        "⏱️ 网站运行： "
+        "网站已运行： "
         + diffYears + " 年 "
         + diffDays + " 天 "
         + diffHours + " 小时 "

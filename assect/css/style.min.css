@@ -13,7 +13,7 @@ body:not(.ready) {
 
 .search {
   border-bottom: none !important;
-  margin-left: 80px;
+  margin-left: 60px;
   margin-right: 20px;
 }
 
@@ -26,7 +26,7 @@ body:not(.ready) {
   background-color: var(--background) !important;
   margin: 0 auto;
   color: var(--textColor);
-  width: 80% !important;
+  width: 90% !important;
   border-radius: 15px;
   text-indent: 15px;
 }
@@ -258,7 +258,7 @@ main.hidden {
 .sidebar {
   border-right: 1px solid var(--borderColor);
   overflow-y: auto;
-  /* padding: 40px 0 0; */
+  padding: 0px;
   position: absolute;
   top: 0;
   bottom: 0;
@@ -352,12 +352,12 @@ main.hidden {
 
 .sidebar-toggle {
   background-color: transparent;
-  border: 0;
-  border-radius: 3px;
+  border: 0px;
+  border-radius: 0px;
   outline: none;
-  padding: 0;
+  padding: 0px;
   position: absolute;
-  top: 16px;
+  top: 30px;
   left: 10px;
   text-align: center;
   transition: opacity 0.5s;
@@ -378,6 +378,7 @@ main.hidden {
 .sidebar-toggle span {
   background-color: var(--accent);
   display: block;
+  margin-top: 6px;
   margin-bottom: 6px;
   width: 36px;
   height: 4px;
@@ -400,7 +401,7 @@ body.sticky .sidebar-toggle {
 
 .markdown-section {
   margin: 0 auto;
-  max-width: 84%;
+  max-width: 86%;
   padding: 5px;
   position: relative;
 }
@@ -521,7 +522,7 @@ body.close .content {
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 860px) {
 
   .github-corner,
   .sidebar,
@@ -562,7 +563,7 @@ body.close .content {
 
   .sidebar-toggle {
     background-color: transparent;
-    width: 300px;
+    width: auto;
     padding: 0px;
   }
 
@@ -572,7 +573,7 @@ body.close .content {
 
   body.close .sidebar-toggle {
     transition: background-color 1s;
-    width: 300px;
+    width: auto;
     padding: 0px;
   }
 
@@ -595,9 +596,13 @@ body.close .content {
     animation: octocat-wave 0.56s ease-in-out;
   }
 
+  .markdown-section {
+    max-width: 90%;
+  }
+
   #docsify-darklight-theme {
     position: fixed;
-    right: 16px;
+    left: 10px;
     bottom: 16px;
     z-index: 66;
     width: 46px;
@@ -610,7 +615,7 @@ body.close .content {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    transition: background-image 0.15s ease-in-out 0.15s;
+    /* transition: background-image 0.15s ease-in-out 0.15s; */
   }
 }
 
@@ -1090,7 +1095,7 @@ pre:after {
 
 #docsify-darklight-theme {
   position: fixed;
-  right: 16px;
+  left: 10px;
   bottom: 16px;
   z-index: 66;
   width: 46px;
@@ -1103,7 +1108,7 @@ pre:after {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  transition: background-image 0.15s ease-in-out 0.15s;
+  /* transition: background-image 0.15s ease-in-out 0.15s; */
 }
 
 #docsify-darklight-theme p {

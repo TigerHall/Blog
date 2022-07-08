@@ -1,7 +1,9 @@
 <!-- 书籍目录 -->
 # 书籍目录 <!-- {docsify-ignore} -->
 
-- [📖 利用地化数据](Page/Books/Readme "利用地化数据，鲁迅文集")
+- [📑 笔记文献](Page/Notes/Readme "文献栏目说明")
+
+- [📖 利用地化数据](Page/Books/Readme "利用地化数据")
   - [利用地化数据](Page/Books/UGD "利用地化数据了解地质进程")
   - [UGD-甲·介绍](Page/Books/UGD-1 "地球化学数据")
   - [UGD-已·分析](Page/Books/UGD-2 "分析地球化学数据")
@@ -23,5 +25,7 @@
   - [华盖集续编](Page/Books/LX-Canopy-Sequel-1 "鲁迅文集 · 卷3-华盖集续编")
   - [华盖集续编的续编](Page/Books/LX-Canopy-Sequel-2 "鲁迅文集 · 卷3-华盖集续编的续编")
   - [而已集](Page/Books/LX-Only "鲁迅文集 · 卷3-华盖集、而已集")
+
+- [🚧 测试](Page/Za/tReadme "测试栏目说明")
 
 - [🔗 网站首页](Readme "关于网站的说明")
