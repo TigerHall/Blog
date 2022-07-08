@@ -1,4 +1,4 @@
-# 杂记栏目说明 {docsify-ignore-all}
+# 杂记栏目说明 <!-- {docsify-ignore-all} -->
 
 记录平时生活的琐事与感想
 

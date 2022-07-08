@@ -1,4 +1,4 @@
-# 文献及笔记栏目说明 {docsify-ignore-all}
+# 文献及笔记栏目说明 <!-- {docsify-ignore-all} -->
 
 ?> 会记载平时的各类笔记，如有纰漏，烦请指正
 
