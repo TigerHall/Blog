@@ -1,5 +1,5 @@
 <!-- 摘要目录 -->
-# 摘要目录 {docsify-ignore}
+# 摘要目录 <!-- {docsify-ignore} -->
 
 - [🧿 研究摘要](Page/Brief/Readme "摘要栏目介绍")
 

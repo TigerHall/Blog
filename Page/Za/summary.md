@@ -1,5 +1,5 @@
 <!-- 测试目录 -->
-# 测试目录 {docsify-ignore}
+# 测试目录 <!-- {docsify-ignore} -->
 
 - [🚧 测试](Page/Za/tReadme "测试栏目说明")
 
