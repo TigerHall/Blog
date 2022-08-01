@@ -25,6 +25,9 @@
   - [华盖集续编](Page/Books/LX-Canopy-Sequel-1 "鲁迅文集 · 卷3-华盖集续编")
   - [华盖集续编的续编](Page/Books/LX-Canopy-Sequel-2 "鲁迅文集 · 卷3-华盖集续编的续编")
   - [而已集](Page/Books/LX-Only "鲁迅文集 · 卷3-华盖集、而已集")
+  - [三闲集](Page/Books/LX-Sanxianji "鲁迅文集 · 卷4-三闲集")
+  - [二心集](Page/Books/LX-Erxinji "鲁迅文集 · 卷4-二心集")
+  - [伪自由书](Page/Books/LX-Pseudo-Liberty-Book "鲁迅文集 · 卷4-伪自由书")
 
 - [🚧 测试](Page/Za/tReadme "测试栏目说明")
 
