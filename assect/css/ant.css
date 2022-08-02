@@ -138,9 +138,23 @@ details summary::-webkit-details-marker {
     url('../Font/CascadiaMono.woff2') format('woff2');
 }
 
-/* LXGWZhenKai*/
+/* 霞鹜臻楷*/
 @font-face {
   font-family: 'LXGW';
   src: local(''),
     url('../Font/LXGWZhenKai.woff2') format('woff2');
+}
+
+/* 遍黑体 */
+@font-face {
+  font-family: 'BHT';
+  src: local(''),
+    url('../Font/BHT.woff2') format('woff2');
+}
+
+/* 方正新楷体 */
+@font-face {
+  font-family: 'FZXKT';
+  src: local(''),
+    url('../Font/方正新楷体.woff2') format('woff2');
 }

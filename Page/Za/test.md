@@ -33,11 +33,11 @@ B站
 
 本地
 
-<video src="/Page/za/test.mp4" width="96%" controls="controls" style="clear:both; display:block; margin:auto"></video>
+<video src="Page/za/test.mp4" width="96%" controls="controls" style="clear:both; display:block; margin:auto"></video>
 
 插入 html 文件
 
-<iframe height="650px" src="/Page/za/test.html"></iframe>
+<iframe height="650px" src="Page/za/test.html"></iframe>
 
 音乐
 
