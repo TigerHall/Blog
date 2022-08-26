@@ -24,31 +24,47 @@ h6 {
 }
 
 h2:before {
+  font-size: 80%;
   counter-increment: h2counter;
-  content: counter(h2counter) "\0000a0\0000a0";
+  content: counter(h2counter) "\0000a0";
 }
 
 h3:before {
+  font-size: 80%;
   counter-increment: h3counter;
-  content: counter(h2counter) "." counter(h3counter) "\0000a0\0000a0";
+  content: counter(h2counter) "." counter(h3counter) "\0000a0";
 }
 
 h4:before {
+  font-size: 80%;
   counter-increment: h4counter;
-  content: counter(h2counter) "." counter(h3counter) "." counter(h4counter) "\0000a0\0000a0";
+  content: counter(h2counter) "." counter(h3counter) "." counter(h4counter) "\0000a0";
 }
 
 h5:before {
+  font-size: 80%;
   counter-increment: h5counter;
   content: counter(h2counter) "." counter(h3counter) "." counter(h4counter) "."
-    counter(h5counter) "\0000a0\0000a0";
+    counter(h5counter) "\0000a0";
 }
 
 h6:before {
+  font-size: 80%;
   counter-increment: h6counter;
   content: counter(h2counter) "." counter(h3counter) "." counter(h4counter) "."
-    counter(h5counter) "." counter(h6counter) "\0000a0\0000a0";
+    counter(h5counter) "." counter(h6counter) "\0000a0";
 }
+
+/* #main {
+  counter-reset: pcounter;
+} */
+
+/* #main p:before {
+  font-size: 50%;
+  opacity: 0.5;
+  counter-increment: pcounter;
+  content: "⌈" counter(pcounter)"⌋";
+} */
 
 /* 回到顶部 */
 

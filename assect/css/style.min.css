@@ -401,7 +401,8 @@ body.sticky .sidebar-toggle {
 
 .markdown-section {
   margin: 0 auto;
-  max-width: 86%;
+  width: 86%;
+  max-width: 860px;
   padding: 5px;
   position: relative;
 }
