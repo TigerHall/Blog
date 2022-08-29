@@ -8,6 +8,7 @@
   - [Emoji 支持](Page/Za/Emoji "🤣💓😂")
   - [测试笔记](Page/Za/test "测试🔧笔记")
   - [诗词](Page/Za/Poetry "经典古诗词")
+  - [山海经](Page/Za/ShanHaiChing "山海经")
 
 - [🤔 杂谈](Page/Za/Readme "生活杂记")
 
