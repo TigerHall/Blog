@@ -12,6 +12,7 @@
   - [西游记](Page/Za/XiYou "西游记·吴承恩-明代")
   - [道德经](Page/Za/DaoDe "道德经·老子-春秋时期")
   - [小王子](Page/Za/TheLittlePrince "The Little Prince")
+  - [共产党宣言](Page/Za/GCDXY "共产党宣言")
 
 - [🤔 杂谈](Page/Za/Readme "生活杂记")
 
