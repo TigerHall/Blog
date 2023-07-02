@@ -21,15 +21,9 @@
 
 我的 ![ORCID](../../assect/pic/orcid.svg ":no-zoom :size=16")  [-ORCID](https://orcid.org/0000-0002-6962-8707)
 
-## 内容介绍
+## 内容目录
 
-> [印度洋Dupal](Page/Brief/IndoDupal "印度洋Dupal异常范围厘定及成因初探-个人论文") &
-> [Dupal 笔记](Page/Brief/Dupal "Dupal异常的研究") &
-> [🚧 测试](Page/Za/tReadme "测试🔧栏目说明")
-
-- [研究摘要](Page/Brief/Readme "研究摘要说明")
-- [地化笔记](Page/Notes/Readme "笔记介绍")
-- [书籍阅读](/Page/Books/Readme "经典阅读")
+[更新目录](./summary.md ':include')
 
 ## 其他
 

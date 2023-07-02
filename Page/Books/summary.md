@@ -1,8 +1,6 @@
 <!-- 书籍目录 -->
 # 书籍目录 <!-- {docsify-ignore} -->
 
-- [📑 笔记文献](Page/Notes/Readme "文献栏目说明")
-
 - [📖 利用地化数据](Page/Books/Readme "利用地化数据")
   - [利用地化数据](Page/Books/UGD "利用地化数据了解地质进程")
   - [UGD-甲·介绍](Page/Books/UGD-1 "地球化学数据")
@@ -28,7 +26,5 @@
   - [三闲集](Page/Books/LX-Sanxianji "鲁迅文集 · 卷4-三闲集")
   - [二心集](Page/Books/LX-Erxinji "鲁迅文集 · 卷4-二心集")
   - [伪自由书](Page/Books/LX-Pseudo-Liberty-Book "鲁迅文集 · 卷4-伪自由书")
-
-- [🚧 测试](Page/Za/tReadme "测试栏目说明")
 
 - [🔗 网站首页](Readme "关于网站的说明")

@@ -1,8 +1,6 @@
 <!-- 测试目录 -->
 # 测试目录 <!-- {docsify-ignore} -->
 
-- [📖 利用地化数据](Page/Books/Readme "利用地化数据")
-
 - [🤔 杂谈](Page/Za/Readme "生活杂记")
   <!-- - [科研与生活](Page/Za/Self/PG-1 "科研生活，还有未来") -->
   <!-- - [疫情与未来](Page/Za/Self/PG-2 "疫情与未来") -->
