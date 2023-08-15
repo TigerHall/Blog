@@ -6,6 +6,15 @@
 
 Machine learning is an area that enterprises are increasingly investing in or identifying as a potential area of growth. There are many reasons enterprises invest in machine learning, from being able to leverage data to find insights about their customers to making processes more efficient. In this book, we break down how machine learning models are built into six steps: data access and collection, data preparation and exploration, model build and train, model evaluation, model deployment, and model monitoring.
 
+> Steps of building machine learning models
+>
+> 1. Data access and collection
+> 2. Data preparation and exploration
+> 3. Model build and train
+> 4. Model evaluation
+> 5. Model deployment
+> 6. Model monitoring
+
 Building a machine learning model is an iterative process. Many of the steps needed to build a machine learning model are reiterated and modified until data scientists are satisfied with the model performance. This process requires a great deal of data exploration, visualization and experimentation as each step must be explored, modified and audited independently.
 
 ## I. Data access and collection
@@ -69,7 +78,7 @@ Model explanations typically fall into global explanation and local explanation.
 
 There are many open source tools that help data scientists calculate the metrics for evaluating machine learning models and help them visualize the metrics (e.g., AUC-ROC curve, gain and lift charts.) When evaluating machine learning models, data scientists need to decide which metrics are important for the business problem they are trying to solve.
 
-For classification problems, one can use accuracy for model evaluation, but sometimes it might not be the optimal metric choice. If a problem involves detecting whether someone has a rare illness, a better metric might be how many people with the illness are accurately diagnosed divided by all the people with the illness. In that case, it would be more useful to look at a confusion matrix which shows the number of true positives, true negatives, false positives, and false negatives, and calculate precision and recall. For regression problems, you can use metrics such as root-mean-square error, mean absolute error or calculate the coefficient of determination r2. For unsupervised problems, a set of clusters with high cohesion within the clusters and separation between the clusters is considered ideal. This can be measured with metrics such as silhouette score and Calinski-Harabasz coefficient.
+For classification problems, one can use accuracy for model evaluation, but sometimes it might not be the optimal metric choice. If a problem involves detecting whether someone has a rare illness, a better metric might be how many people with the illness are accurately diagnosed divided by all the people with the illness. In that case, it would be more useful to look at a confusion matrix which shows the number of true positives, true negatives, false positives, and false negatives, and calculate precision and recall. For regression problems, you can use metrics such as root-mean-square error, mean absolute error or calculate the coefficient of determination $r^{2}$ . For unsupervised problems, a set of clusters with high cohesion within the clusters and separation between the clusters is considered ideal. This can be measured with metrics such as silhouette score and Calinski-Harabasz coefficient.
 
 ## V. Model deployment
 
@@ -97,8 +106,8 @@ We hope this has been a useful guide on the steps it takes to [build a machine l
 
 There are many resources available that dive deeper into each of the steps covered in this book, and you can learn more about them as you make decisions about your enterprise’s data science strategy. If you’re ready to get started, Oracle offers [hands-on labs](https://go.oracle.com/LP=95639?elqCampaignId=257327) so you can experiment with building your own data science models.
 
-Copyright © 2020, Oracle and/or its affiliates. All rights reserved. This document is provided for information purposes only, and the contents hereof are subject to change without notice. This document is not warranted to be error-free, nor subject to any other warranties or conditions, whether expressed orally or implied in law, including implied warranties and conditions of merchantability or fitness for a particular purpose. We specifically disclaim any liability with respect to this document, and no contractual obligations are formed either directly or indirectly by this document. This document may not be reproduced or transmitted in any form or by any means, electronic or mechanical, for any purpose, without our prior written permission.
+<!-- Copyright © 2020, Oracle and/or its affiliates. All rights reserved. This document is provided for information purposes only, and the contents hereof are subject to change without notice. This document is not warranted to be error-free, nor subject to any other warranties or conditions, whether expressed orally or implied in law, including implied warranties and conditions of merchantability or fitness for a particular purpose. We specifically disclaim any liability with respect to this document, and no contractual obligations are formed either directly or indirectly by this document. This document may not be reproduced or transmitted in any form or by any means, electronic or mechanical, for any purpose, without our prior written permission.
 
 Oracle and Java are registered trademarks of Oracle and/or its affiliates. Other names may be trademarks of their respective owners.
 
-Intel and Intel Xeon are trademarks or registered trademarks of Intel Corporation. All SPARC trademarks are used under license and are trademarks or registered trademarks of SPARC International, Inc. AMD, Opteron, the AMD logo, and the AMD Opteron logo are trademarks or registered trademarks of Advanced Micro Devices. UNIX is a registered trademark of The Open Group 05.10.19.
+Intel and Intel Xeon are trademarks or registered trademarks of Intel Corporation. All SPARC trademarks are used under license and are trademarks or registered trademarks of SPARC International, Inc. AMD, Opteron, the AMD logo, and the AMD Opteron logo are trademarks or registered trademarks of Advanced Micro Devices. UNIX is a registered trademark of The Open Group 05.10.19. -->
