@@ -208,21 +208,27 @@ print()
 
 ### 视频
 
-B站
+#### B站在线
 
 <iframe src="//player.bilibili.com/player.html?aid=426400323&bvid=BV1V3411N7cE&cid=716242382&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600px"> </iframe>
 
-本地
+#### 本地
+
+##### 绝对链接
 
 <video src="Page/za/Test/test.mp4" width="96%" controls="controls" style="clear:both; display:block; margin:auto"></video>
 
-插入 html 文件
+##### 相对链接
+
+<video src="./test.mp4" width="96%" controls="controls" style="clear:both; display:block; margin:auto"></video>
+
+##### 插入 html 文件
 
 <iframe height="650px" src="Page/za/Test/test.html"></iframe>
 
-音乐
+##### 音乐
 
-### 我的 ![ORCID](../../assect/pic/orcid.svg ":size=20") [-ORCID](https://orcid.org/0000-0002-6962-8707)
+### 我的 ![ORCID](../../../assect/pic/orcid.svg ":size=20") [-ORCID](https://orcid.org/0000-0002-6962-8707)
 
 ### ⏱️ 网站运行 :id=sitetime
 

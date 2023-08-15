@@ -27,6 +27,7 @@ h2:before {
   font-size: 80%;
   counter-increment: h2counter;
   content: counter(h2counter) "\0000a0";
+  visibility: visible;
 }
 
 h3:before {
