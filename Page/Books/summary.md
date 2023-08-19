@@ -32,5 +32,7 @@
   - [西游记](Page/Books/XiYou "西游记·吴承恩-明代")
   - [道德经](Page/Books/DaoDe "道德经·老子-春秋时期")
   - [小王子](Page/Books/TheLittlePrince "The Little Prince")
+  - [卡夫卡](Page/Books/Kafka "卡夫卡文集·变形记等")
   - [共产党宣言](Page/Books/GCDXY "共产党宣言")
   - [诗词](Page/Books/Poetry "经典古诗词")
+  - [子不语](Page/Books/ZiBuYu "志怪小说")
