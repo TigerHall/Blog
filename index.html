@@ -50,6 +50,8 @@
   <script>
     window.$docsify = {
       name: "何虎的笔记",
+      basePath: '',
+      relativePath: false,
       maxLevel: 7, //最大支持渲染的标题层级
       subMaxLevel: 5, //侧边栏目录
       homepage: "./Readme.md",
@@ -60,7 +62,7 @@
       auto2top: true, //切换页面后是否自动跳转到页面顶部
       notFoundPage: "./assect/404.md", // 自定义404页面
       topMargin: 36, //跳转定位
-
+      externalLinkTarget: '_blank', // default: '_blank'
       formatUpdated: '{YYYY} 年 {MM} 月 {DD} 日',
       nativeEmoji: false,
 

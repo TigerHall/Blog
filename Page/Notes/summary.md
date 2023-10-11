@@ -8,3 +8,4 @@
   - [生物化学](Page/Notes/Biochemistry-Notes "关于生物化学的术语")
   - [沉积地球化学](Page/Notes/SGC "部分沉积地球化学 Sedimentary Geochemistry 文献收录")
   - [生物化学沉积](Page/Notes/Biochemical-Deposit "关于生物化学沉积文献收录")
+  - [地理坐标转换](Page/Notes/GeoDis "关于地理坐标转换成球面距离的问题")
